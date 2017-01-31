@@ -1,8 +1,0 @@
-\select@language {brazilian}
-\contentsline {chapter}{Sum\'ario}{1}
-\contentsline {chapter}{\chapternumberline {1}Alice no país...}{3}
-\contentsline {section}{\numberline {1.1}Seção}{3}
-\contentsline {subsection}{\numberline {1.1.1}Subseção}{3}
-\contentsline {subsubsection}{\numberline {1.1.1.1}Subsubseção}{4}
-\contentsline {paragraph}{\numberline {1.1.1.1.1}Parágrafo}{4}
-\contentsline {subparagraph}{Subparágrafo}{4}
