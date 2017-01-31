@@ -1,6 +1,41 @@
 
 \documentclass{memoir}
-\usepackage[xetex]{tipografia}
+
+
+\usepackage[polutonikogreek,english,italian,ngerman,french,russian,brazilian]{babel}
+\usepackage[protrusion=true,final]{microtype}
+
+\usepackage{fontspec}
+\newfontfeature{Microtype}{protrusion=default, expansion=default}
+\defaultfontfeatures{Microtype}
+
+\usepackage{xunicode}
+
+\newcommand{\port}{\selectlanguage{brazilian}}
+\newcommand{\pt}[1]{\foreignlanguage{brazilian}{#1}}
+\newcommand{\Italiano}{\selectlanguage{italian}}
+\newcommand{\Alemao}{\selectlanguage{ngerman}}
+\newcommand{\Frances}{\selectlanguage{french}}
+\newcommand{\Ingles}{\selectlanguage{english}}
+\newcommand{\Russo}{\selectlanguage{russian}}
+\newcommand{\gr}[1]{#1}
+
+\setmainfont[Ligatures=TeX,Numbers=OldStyle]{Times New Roman}
+%\setmainfont[Ligatures=TeX,Numbers=OldStyle]{Charis SIL}
+%% translineação
+
+\defineshorthand{"-}{\discretionary{-}{-}{-}} 
+\newcommand{\letra}[2]{\lettrine[lines=3,nindent=-.1mm,findent=2mm]{#1}{#2}}
+\newcommand{\quebra}{\linebreak}
+
+% Testes
+\newfontfamily\china{WenQuanYi Micro Hei}
+\newcommand{\chin}[1]{{\normalfont\china #1}}
+\newcommand{\testechines}{\chin{道德經}}
+
+%\usepackage{luatextra}
+%\usepackage{polyglossia}
+%\setmainlanguage{portuges}
 
 \usepackage{lipsum}
 
@@ -15,11 +50,9 @@
 \setmainfont{Times New Roman}
  
 
-\title{Sample font document}
-\author{Hubert Farnsworth}
-\date{this month, 2014}
+\title{Exemplo de abertura de artigo}
+\author{Jorge Sallum}
  
-\chines
 
 
 \begin{document}
@@ -30,6 +63,19 @@
 
 % Break, par, \\
 \chapter*{Meu primeiro título}
+
+\testechines
+
+% Asterisco
+% Opções do memoir
+	% Tamanho de fonte
+	% artigo/livro
+	% openany
+% Toc
+% Língua
+% Tamanho de letra
+% Notas de fim
+
 
  
 \end{document}
