@@ -1,0 +1,24 @@
+RBEF-2016-0149.R1
+
+
+Revista Brasileira de Ensino de Física, v. 39, n. 2, elocation (2017)
+www.scielo.br/rbef
+DOI: http://dx.doi.org/10.1590/1806-9126-RBEF-2016-0149
+Artigos Gerais
+
+Recebido em 06 de Julho, 2016. Revisado em 24 de Outubro, 2016. Aceito em 08 de Novembro, 2016.
+
+
+A.L.P. Camargo1, 3, L.O. Pereira1, W.F. Balthazar2, J.A.O. Huguenin1, 3*
+1Instituto de Ciências Exatas, Universidade Federal Fluminense, Volta Redonda, RJ, Brasil
+2Instituto Federal de Educação, Ciência e Tecnologia do Estado do Rio de Janeiro, Volta Redonda, RJ, Brasil
+3Instituto de Física, Universidade Federal Fluminense, Niterói, RJ, Brasil
+
+*Endereço de correspondência: huguenin@if.uff.br
+
+Titulo em inglês:
+Simulation of the BB84 protocol of quantum cryptography by using an intense laser beam
+
+Palavras-Chave:  Criptografia Quântica, Polarização, Laser , Mecânica Quântica
+
+Keywords:  Quantum Criptography, Polarization, Laser, Quantum Mechanics.

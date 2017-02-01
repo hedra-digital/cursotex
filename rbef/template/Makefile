@@ -1,5 +1,5 @@
 all:
-	latexmk rbef.tex
+	pdflatex rbef.tex
 	evince rbef.pdf
 clean:
 	-rm rbef.aux
