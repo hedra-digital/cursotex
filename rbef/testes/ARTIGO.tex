@@ -1,0 +1,98 @@
+\begin{primeirapagina}
+
+
+%\begin{center}
+%\vspace{-12pt}
+%\small{Recebido em xxx. Aceito em xxx}
+%\end{center}
+
+
+	\begin{abstract}
+Um abstract em vernáculo. \lipsum[1].
+    \palavraschave{xxxxx}
+
+	\end{abstract}
+
+	
+	\begin{otherlanguage}{english}
+	
+
+	\begin{abstract}
+\lipsum[1].
+	\keywords{xxxx}
+	
+	\end{abstract}
+	\end{otherlanguage}
+
+	\end{primeirapagina}
+\saythanks
+
+\section{Uma seção qualquer}
+
+\lipsum[1]
+
+\section{Uma seção qualquer: 2}
+
+\lipsum[1]
+
+\begin{widetext}
+
+  \begin{displaymath}
+a + b + c + d + e + f + g + h
+\end{displaymath}
+
+
+\end{widetext}
+
+
+\[
+  \dfrac{q}{m} \propto \frac{4\pi{r^2}}{\frac{4}{3}\pi{r^3}}\
+  \propto 3{r^\alpha}\text{, \quad gdje je\quad}\;\alpha = -1 \text{.}
+\]
+
+\lipsum[1-2]
+Fórmula
+%$\int\frac{1}{2}dx - \mathlarger{ \int\frac{1}{2}dx}$
+\lipsum[1-20]
+
+\section{Você pode utilizar os ambiente \texttt{multicols}}
+Se tiver muitas equações longas. Simplesmente utilize 
+\begin{verbatim} 
+\comeco
+\end{verbatim}
+
+Para começar o texto depois do abstract.
+
+Ou então
+
+\begin{verbatim}
+\duascolunas
+\end{verbatim}
+
+
+Da mesma forma, use
+\begin{verbatim} 
+\fim
+\end{verbatim}
+
+(Preferivelmente no \verb+fim+ do documento\ldots)
+
+Ou então
+
+\begin{verbatim}
+\umacoluna
+\end{verbatim}
+
+Para passar para uma coluna e começar o ambiente \verb+widetext+:
+
+\begin{verbatim}
+\umacoluna % ou \end{multicols}
+\begin{widetext}
+\begin{equation}
+a + b^2 = 3
+\end{equation}
+\end{widetext}
+\duascolunas % ou \begin{multicols}{2}
+...
+\fim % ou \end{multicols}
+\end{verbatim}

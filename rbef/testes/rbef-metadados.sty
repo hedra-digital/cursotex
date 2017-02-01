@@ -75,3 +75,8 @@
 \newcommand{\keywords}[1]{\textbf{Keywords:} #1}
 \newcommand{\palavrasclave}[1]{\textbf{Palavras clave:} #1}
 %
+
+
+
+%% não dá um salto de página, mas acaba com numeração e prejudica todo o resto:
+\newenvironment{primeirapagina}{\begin{strip}\vspace*{-2cm}\maketitle}{\end{strip}}%\vspace*{-2cm} added on 30-12-15

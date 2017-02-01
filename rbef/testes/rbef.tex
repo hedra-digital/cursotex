@@ -1,0 +1,53 @@
+\documentclass{article}
+\usepackage{lipsum}
+\usepackage{flushend,verbatim,multicol}
+\usepackage[blocks]{authblk} %blocks: always author/affiliation blocks
+\usepackage[bookmarks=true,breaklinks=true]{hyperref}
+\usepackage[english,french,spanish,es-tabla,brazil]{babel}
+\usepackage[english,french,spanish,es-tabla,brazil]{babel}
+\usepackage[euler-digits,euler-hat-accent,T1]{eulervm} %fonte matemática, retirada a pedido do editor, 21/12/2015
+\usepackage[framemethod=tikz]{mdframed}
+\usepackage[normalem]{ulem}
+\usepackage[outer=2cm,inner=1.3cm,bottom=3cm,top=2.5cm]{geometry}
+\usepackage[stable,bottom]{footmisc}% para footnotes em títulos. pôr footnote DENTRO. % bottom para resolver problema com footnote + figura no fim de página
+%\usepackage[svgnames,dvipsnames]{xcolor} % cores
+\usepackage[switch,columnwise]{lineno}
+\usepackage[utf8]{inputenc}
+\usepackage{abstract}%%[runin] -- %para abstract e \saythanks
+\usepackage{amssymb} %para \mathbb{text}
+\usepackage{booktabs} %tabelas profissionais
+\usepackage{ccicons} % ícones creative commons
+\usepackage{enumitem} % enumerate e itemize sem espaço entre itens (ver abaixo:)
+\usepackage{fontspec} % fontes
+\usepackage{graphicx} % para inserção de figuras
+\usepackage{ifxetex}
+\usepackage{lipsum}
+\usepackage{longtable}
+\usepackage{mathrsfs} % para mathscr
+\usepackage{mathtools}%substitui e acrescenta funções a amsmath
+\usepackage{microtype} % melhor justificação de parágrafos
+\usepackage{multicol}
+\usepackage{multirow} % células em várias linhas em tabelas.
+\usepackage{penalidades}
+\usepackage{rbef-metadados}
+\usepackage{rbef-twocols}
+\usepackage{scrlayer-scrpage} %antigo scrpage2
+\usepackage{sidecap}
+\usepackage{tabularx} % para facilitar nas tabelas
+\usepackage{textcomp}
+\usepackage{wrapfig}
+
+
+%\input{METADADOS}
+\setlength{\parskip}{1pt plus 1pt} 
+
+\begin{document}
+	
+\begin{multicols}{2}
+\lipsum
+%\input{ARTIGO}
+
+\end{multicols}
+\showcolsendrule
+
+\end{document} 
