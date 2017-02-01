@@ -1,0 +1,77 @@
+%put empty command in .cls
+\newcommand{\volumerevista}{}
+\newcommand{\volume}[1]{\renewcommand{\volumerevista}{vol. #1}}
+
+
+\newcommand{\numerorevista}{}
+\newcommand{\numero}[1]{\renewcommand{\numerorevista}{nº #1}}
+
+\newcommand{\anorevista}{}
+\newcommand{\ano}[1]{\renewcommand{\anorevista}{#1}}
+
+
+\newcommand{\doirevista}{}
+\newcommand{\doi}[1]{\renewcommand{\doirevista}{DOI: #1}}
+
+
+
+\newcommand{\titleheader}{}
+\newcommand{\titulocabecalho}[1]{\renewcommand{\titleheader}{#1}}
+
+\newcommand{\authorheader}{}
+\newcommand{\autorcabecalho}[1]{\renewcommand{\authorheader}{#1}}
+
+\newcommand{\numerocabecalho}{}
+\newcommand{\numeracao}[1]{\renewcommand{\numerocabecalho}{#1}}
+
+\newcommand{\tipodeartigotexto}{}
+\newcommand{\tipodeartigo}[1]{\renewcommand{\tipodeartigotexto}{#1}}
+
+\newcommand{\rbef}{Revista Brasileira de Ensino de Física}
+
+		
+\titlehead{\small \sffamily
+				\begin{minipage}{0.6\textwidth}
+					\begingroup\small
+					\rbef, \volumerevista, \numerorevista, \numerocabecalho~(\anorevista) %(ano em parênteses, tire parênteses se quiser) 
+					
+					\url{www.scielo.br/rbef}
+					
+					\doirevista
+					\endgroup
+
+					\end{minipage}
+					\hfill
+					\begin{minipage}{0.4\textwidth}
+						
+						\flushright		
+						\tipodeartigotexto
+						
+						\ccbyncnd
+						
+						Licença Creative Commons 
+						
+						\end{minipage}
+						%\hspace*{24pt}
+						}
+						
+						%\addtocounter{page}{566} %% \setcounter produces extra white page!!! use ===\addtocounter===
+						
+						\frenchspacing
+						
+
+
+
+		\renewcommand{\date}{\vspace{-5ex}}				
+						
+						
+						
+
+\newcommand{\titulo}[1]{\title{\LARGE #1}}
+\let\subtitulo\subtitle
+
+
+\newcommand{\palavraschave}[1]{\textbf{Palavras-chave:} #1}
+\newcommand{\keywords}[1]{\textbf{Keywords:} #1}
+\newcommand{\palavrasclave}[1]{\textbf{Palavras clave:} #1}
+%
