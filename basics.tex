@@ -1,6 +1,6 @@
 
 %!TEX program = xelatex
-\documentclass{memoir}
+\documentclass[a5paper]{memoir}
 
 \usepackage[polutonikogreek,english,italian,ngerman,french,russian,brazilian]{babel}
 \usepackage[protrusion=true,final]{microtype}
@@ -9,9 +9,11 @@
 \usepackage[table,xcdraw]{xcolor}
 
 
+
+
 % Pacotes importantes
 \usepackage{microtype}
-\usepackage{graphicx,lipsum,verse}
+\usepackage{graphicx,lipsum,verse,comment}
 
 % Hifenização
 \hyphenation{Schniz-el}
@@ -56,11 +58,14 @@
 
 \part{Parte}
 
+\mbox{}
+\vskip4cm
+Ao meu filho...
 
+\begin{comment}
+\chapter[Alice no país, por L. Carroll][Cabeço]{Alice no país\\ das maravilhas}
 
-\chapter[Alice no país...][Cabeço]{Alice no país\\ das maravilhas}
-
-\epigraph{Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.}{Benjamim Franklin}
+\epigraph{Lorem ipsum dolor sit amet, consetetur sadipscing elitr, João\,XXIII sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.}{Benjamim Franklin}
 
 % Break, par, \\
 \section{Seção}
@@ -88,11 +93,36 @@ carrego papai no bolso e mamãe no coração\\
 O bolso furou e o papai caiu no chão.\\*
 Mamãe que é mais querida ficou no coração.\\*
 \nobreak\medskip
-\hfill J.S.~Bach
-
-
+\hfill 
+\begin{minipage}{.4\textwidth}
+										J.S.~Bach\\
+										Babenbaden Universität
+\end{minipage}
 \end{verse}
+
+
+
+\begingroup\selectlanguage{english}
+Batatinha when born spreads the branch through the ground. 
+Little girl when she sleeps, puts her hand on her heart. 
+I'm small the size of a button,
+I carry Daddy in my pocket and Mommy in my heart 
+The pocket stuck and Dad fell to the floor. 
+Mama who is dearest stayed in the heart. 
+\endgroup
+
 \lipsum[2]
+
+
+\section{Espaços}
+
+
+\begin{verbatim}
+
+\vskip10pt  % comando tex
+\vspace*{10pt}
+
+\end{verbatim}
 
 
 \subsubsection{Subsubseção}
@@ -109,6 +139,9 @@ Mamãe que é mais querida ficou no coração.\\*
 
 \subparagraph{Subparágrafo}
 \lipsum[5]
+
+
+
 
 
 % Please add the following required packages to your document preamble:
@@ -161,4 +194,5 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed.
 
 %\noindent\rule{\textwidth}{3pt}
 
+\end{comment}
 \end{document}

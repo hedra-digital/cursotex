@@ -115,6 +115,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/comment/comment.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/comment/comment.sty
 INPUT basics.aux
 INPUT basics.aux
 OUTPUT basics.aux
@@ -134,8 +136,5 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT basics.toc
 INPUT basics.toc
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
-INPUT cat.jpg
 OUTPUT basics.toc
 INPUT basics.aux
