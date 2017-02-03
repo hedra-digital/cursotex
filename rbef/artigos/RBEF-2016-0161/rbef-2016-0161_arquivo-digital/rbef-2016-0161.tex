@@ -1,0 +1,340 @@
+\documentclass[twocolumn,prl,epfs,aps,showpacs]{revtex4-1}
+\usepackage{epsfig}
+
+\usepackage[brazil]{babel} %faz o tex falar portugues
+\usepackage[latin1]{inputenc}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+
+\begin{document}
+\title{Sobre a indução do campo eletromagnético em referenciais inerciais mediante transformações de Galileu e Lorentz}
+
+\author{I. R. O. Ramos$^{2}$, J. P. M. Braga$^3$, J. W. C. Silva$^1$, A. P. Lima$^1$ e L. M. Holanda$^1$}
+\affiliation{$^1$ Universidade Federal Rural do Semi-\'Arido, Campus Pau dos Ferros, Pau dos Ferros, Rio Grande do Norte, Brasil,}
+\affiliation{$^2$ Universidade Estadual Vale do Acaraú, Campus Cidao, Sobral, Ceará, Brasil,}
+\affiliation{$^3$ Universidade da Integração Internacional da Lusofonia Afro-Brasileira, Campus dos Palmares, Acarape, Ceará, Brasil,}
+\date{\today}
+
+\begin{abstract}
+\begin{center}
+{\bf Resumo}
+\end{center}
+
+
+Neste trabalho abordaremos dois problemas teóricos, não muito discutidos na maioria das universidades brasileiras, envolvendo a Teoria da Relatividade Especial (TRE) e a Teoria do Eletromagnetismo (TEM). Tais exemplos são de fundamental importância para uma completa compreensão da natureza dos campos elétrico e magnético induzidos, bem como para o desenvolvimento dos conceitos da TRE. Eles podem ser discutidos em sala de aula juntamente com uma contextualização histórica acerca da evolução dos conceitos de eletricidade e magnetismo que culminaram na elaboração da Teoria do Eletromagnetismo.\\
+
+\textbf{Palavras-chave:} Eletromagnetismo, Relatividade Especial
+
+\begin{center}
+{\bf Abstract}
+\end{center}
+In this paper we discuss two theoretical problems, not much discussed in most Brazilian universities, involving the Theory of Special Relativity (TSR) and the Electromagnetic Theory (EMT). Such examples are of fundamental importance to a complete understanding of the nature of the induced electric and magnetic fields, as well as for the development of concepts of TSR. These can be discussed in the classroom along with a historical contextualization on the evolution of electricity and magnetism concepts which culminated in the elaboration of Electromagnetic Theory.\\
+
+\textbf{Keywords:} Electromagnetism, Special Relativity
+%Tais exemplos podem ser discutidos em sala de aula juntamente com uma contextualização histórica acerca da evolução dos conceitos de eletricidade e magnetismo que culminaram na elaboração da Teoria do Eletromagnetismo bem como sua crucial importância para o desenvolvimento dos conceitos da TRE.
+
+\end{abstract}
+\pagenumbering{gobble}
+\pagestyle{fancy}
+\fancyhead{}
+\renewcommand{\headrulewidth}{0pt} %
+
+\pacs{89.65.s, 87.23.Ge, 89.75.Da}
+
+\maketitle
+
+\section{Introdução}
+\vspace{-0.5cm}
+O ensino de Ciências a partir de um contexto histórico tem sido amplamente utilizado nas últimas décadas e vem contribuindo bastante na melhoria dos currículos, produção de material didático e elaboração de atividades didáticas em sala de aula bem como na preparação e atualização de professores da área \cite{MAT}.\\
+\indent A maioria dos exemplos sobre TRE apresentados em sala para alunos estão relacionados aos conceitos de dilatação do tempo e da massa, contração das distâncias e relação matéria-energia \cite{Hall4}. Embora não seja o foco deste trabalho a discussão pela qual a relação entre a Teoria da Relatividade Especial e a Teoria do Eletromagnetismo não apareça explicitamente nos livros-texto da graduação, mesmo com a TEM sendo historicamente um dos alicerces em que Einstein elaborou sua Teoria \cite{Eins,Eins1}, acreditamos que tal conexão não é feita pelo fato de que tal linha de raciocínio exigiria dos alunos uma habilidade matemática e conhecimento teórico prévio do Eletromagnetismo que eles não dispõem no momento em que o conteúdo lhes é apresentado. Essa complexidade pode ser verificada em livros como Teoria da Relatividade Especial, de R. A. Martins \cite{TRE} e Eletricidade e Magnetismo, de E. M. Purcell \cite{TEM}. Nesse sentido, nosso trabalho preencheria essa lacuna com a apresentação de exemplos simples que poderiam fazer a ponte entre essas duas teorias e contribuir no processo ensino-aprendizagem desse conteúdo por parte dos alunos.\\
+\indent Apresentamos a seguir uma breve lista de personagens e descobertas históricas que culminaram na construção da Teoria do Eletromagnetismo e em seguida mostramos de forma sucinta a motivação de Einstein, a partir de problemas do Eletromagnetismo, que o levou à elaboração dos Postulados da TRE.
+\vspace{-0.5cm}
+\subsection{Uma breve história sobre o eletromagnetismo}
+\vspace{-0.3cm}
+O estudo da eletricidade e do magnetismo remonta a Grécia antiga onde podemos destacar os experimentos feitos por TALES de Mileto (640-550 a.C.) onde ele observou o fenômeno de eletrização ao friccionar o âmbar a uma pele de animal. Nesse experimento, o âmbar adquiria a capacidade de atrair pequenos objetos próximos. Tales também realizou observações relacionadas às propriedades de atração e repulsão entre pedaços de um determinado minério chamado Magnetita \cite{JF, Thales}. Ao longo dos séculos o conhecimento sobre eletricidade e magnetismo continuou avançando e novas descobertas e aplicações foram realizadas considerando esses dois fenômenos como algo desconexo um do outro. No século XVIII, Charles Augustin de COULOMB (1736-1806) realizou experimentos com uma balança de torção e enunciou a sua famosa lei: ``a força entre duas cargas é diretamente proporcional a carga em cada uma delas e inversamente proporcional ao quadrado da distância que as separa" \cite{Coulomb}.\\
+\indent Na mesma época, Luigi GALVANI (1737-1798) realizava investigações sobre a natureza e efeitos da eletricidade em tecidos animais. Em 1792 ele realizou sua famosa experiência onde conseguia contrair os músculos da perna de uma rã pela aplicação de uma espira constituída de dois metais diferentes. Esse conjunto constituía o primeiro elemento galvânico conhecido: o músculo da rã era tanto o eletrólito quanto o indicador da corrente \cite{Galvani, Galvani2}. Mais tarde, estudando esse assunto, Alessandro Count VOLTA (1745-1827) mostrou que não era necessária a presença de um elemento biológico para a existência de tal fenômeno e estabeleceu que a condição essencial para a circulação elétrica num condutor era que o mesmo fosse constituído de pelo menos dois condutores; um de primeira classe e um outro de segunda classe. Com essas ideias ele construiria mais tarde a pilha voltaica, a precursora das baterias galvânicas \cite{Volta}. Já no século XIX, Siméon Denis POISSON (1781-1849) realizou trabalhos relacionados a Lei de Coulomb onde contribuiu na teoria do potencial que havia desenvolvido inicialmente para a gravitação \cite{Poisson}. Poisson mostrou que toda eletrostática poderia ser explicada pela Lei de Coulomb ou, equivalentemente, pela equação de Laplace-Poisson no caso particular onde não se considerava a presença de dielétricos \cite{Poisson2}.\\
+\indent No magnetismo, Hans Christian OERSTED (1777-1851) realizou experimentos que apresentavam a deflexão da agulha de uma bússola por uma corrente elétrica \cite{Oersted}. Ele descobriu ainda a correspondente força de um imã sobre um circuito elétrico girante. Na mesma época, Jean Baptiste BIOT (1774-1862) e Félix SAVART (1791-1841) a partir de observações experimentais formularam a lei que mais tarde levaria seus nomes e que fornece o cálculo de campos magnéticos produzidos por correntes elétricas \cite{Biot, Hall3, Grif, Reitz}. André Marie AMPÈRE (1775-1836) ao tomar conhecimento das descobertas de Oersted formulou a regra para indicar a direção do campo magnético gerado por uma corrente elétrica num fio. Descobriu que correntes que percorrem fios paralelos, com correntes na mesma direção se atraem, e se repelem quando as correntes são contrárias; descobriu ainda que solenóides atuavam como imãs em barra.\\
+\indent Os fenômenos elétricos e magnéticos pareciam se complementar de modo que efeitos magnéticos sobre correntes elétricas forneciam uma maneira de calcular suas intensidades. Dentre a miríade de personalidades que viriam a contribuir para o desenvolvimento da teoria da eletricidade e do magnetismo, um se destacaria como o maior físico experimental do século XIX, a saber, Michael FARADAY (1791-1867). Faraday foi pioneiro no estudo das relações entre eletricidade e magnetismo. Em 1831 seus estudos o levaram a descoberta da indução eletromagnética \cite{Faraday, Hall3, Grif, Reitz}. Em 1837 descobriu a influência dos dielétricos nos fenômenos eletrostáticos e, mais tarde, dedicou-se a descrever a distribuição geral das propriedades diamagnéticas em todos os materiais. Faraday descobriria ainda os efeitos do magnetismo sobre a luz. O capítulo final na história da unificação dos conceitos de eletricidade e magnetismo seria escrito por James Clerk MAXWELL (1831-1879). \\
+\indent Em seu trabalho de 1861, Maxwell forneceu a base matemática para a compreensão das teóricas linhas de força apresentada por Faraday \cite{Maxwell}. Em 1862, levado por um forte sentido de simetria nas leis da natureza, ele acrescentou a corrente de deslocamento à corrente de condução na Lei de Ampère, que ocorre em todos os dielétricos com campos elétricos variáveis \cite{Grif}. Já em 1865, ele mostra que as ondas eletromagnéticas se propagam com a mesma velocidade da luz, a qual ele recalculou com precisão, concordando com os resultados de Weber \cite{Maxwell2}. Dessa maneira, Maxwell consegue o feito de unificar os conceitos de eletricidade, magnetismo, ondas e ótica numa única teoria chamada desde então Teoria do Eletromagnetismo \cite{Grif, Reitz, Jack}.
+\vspace{-0.42cm}
+\subsection{A gênese da TRE e seus postulados}
+\vspace{-0.3cm}
+No final do Século XIX e início do Século XX, Einstein propõe a TRE como uma solução para dois problemas existentes na Teoria Eletromagnética \cite{Eins}. O primeiro deles era sua dificuldade de explicar satisfatoriamente o problema da radiação de um corpo negro e o segundo era o movimento relativo ao éter. Para responder a primeira questão, Einstein lança mão da proposta dos quanta de luz. Desta feita ele acreditava que não haveria necessidade de substituir a Teoria do Eletromagnetismo de Maxwell e que a mesma conseguia justificar bem os fenômenos puramente ópticos, de modo que dificilmente tal teoria seria abandonada.
+Einstein ainda corroborava com a opinião de Lorentz que acreditava que o cerne da Teoria do Eletromagnetismo de Maxwell era a propagação finita da velocidade da luz com valor igual a uma constante. Essa crença, juntamente com o resultado do experimento de Michelson-Morley indicando que em relação a um sistema de coordenadas movendo-se junto com a Terra todos os fenômenos seriam descritos exatamente pelas mesmas leis, tornando o conceito do éter obsoleto e resolvendo o segundo problema supracitado, Einstein consegue chegar a elaboração de dois postulados que são os pilares construtivos da TRE. O primeiro postulado pode ser escrito da seguinte forma: ``todos os processos da Natureza decorrem igualmente em todos os sistemas inerciais de referência". Já o segundo diz: ``a velocidade da luz no vácuo é igual para todos os sistemas de referência inerciais. Ela não depende nem da velocidade do emissor, nem da velocidade do receptor do sinal luminoso". Desta forma, podemos ver o papel crucial que a Teoria do Eletromagnetismo teve no desenvolvimento da TRE.
+
+Motivados pela relação intrínseca entre a TRE e a Teoria do Eletromagnetismo, nos propomos neste trabalho a tratar do ensino de TRE focando em exemplos didáticos que evoquem suas raízes históricas relacionadas a Teoria do Eletromagnetismo.
+\vspace{-0.3cm}
+\section{Modelo}
+\vspace{-0.3cm}
+Uma partícula de carga $q$ positiva move-se livremente na região $x<0$ com velocidade $\vec{v}$ na direção $x$ em relação a um referencial $S$ fixo na origem, ou seja, $\vec{v}=v_0\hat{i}$ com $v_0$ constante. Na região $x\geq0$ existe um campo uniforme que pode ser elétrico ou magnético. A carga está fixa em um referencial $S'$, o qual move-se também com velocidade constante de módulo $v_0$ na direção $x$ em relação a $S$. Em baixas velocidades, a força eletromagnética exercida sobre a partícula nas regiões $x < 0$ e $x > 0$ é bem definida \cite{Hall3, Grif, Reitz}, ou seja, não existirá variação dos campos $\vec{E}$ e $\vec{B}$ e, consequentemente, não haverá campos induzidos nessas regiões. Portanto, as forças que atuam sobre a partícula (somente na região $x>0$) são as forças elétrica e/ou magnética convencionais, conforme o problema em questão. Por outro lado, no regime de altas velocidades, um observador no referencial $S'$, movendo-se na região $x>0$, observará uma aceleração na partícula. Este tipo de análise está fora do escopo do presente trabalho e, com isso, os casos de interesse que nos propomos a discutir surgem somente na interface entre as regiões, ou seja, em $x=0$. Portanto, iremos analisar com mais cuidado o que ocorre na interface em relação aos referenciais $S$ e $S'$. Em outras palavras, queremos saber qual é a força que atua sobre a partícula considerando dois casos: $(1)$ na região $x\geq0$ existe um campo magnético na direção $\hat{z}$ e $(2)$ na região $x\geq0$ existe um campo elétrico na direção $\hat{j}$. Em cada um desses casos iremos analisar os limites de $\left(i\right)$ baixas e $\left(ii\right)$ altas velocidades.
+\vspace{-0.3cm}
+\section{Caso 1}
+\vspace{-0.2cm}
+\subsection{$\left(i\right)$ - Baixas velocidades: $v_0 \ll c$}
+\vspace{-0.2cm}
+Inicialmente, vamos supor que na região $x\geq0$ existe um campo magnético uniforme na direção $z$, ou seja, $\vec{B}=B_0\hat{k}$ (Figura 1). Esse campo magnético pode ser gerado, por exemplo, pelos pólos de dois ímãs permanentes colocados em paralelo ou na região central de uma bobina de Helmholtz.
+
+\begin{figure}[!h]
+\begin{center}
+\includegraphics[scale=0.43]{fig1.png}
+\end{center}
+\vspace{-0.6cm}
+\caption{Sistema de coordenadas contendo um campo magnético uniforme na direção z para $x\geq0$.}\label{fig1_4.png}
+\end{figure}
+
+Sabe-se que uma partícula carregada sob a ação de um campo eletromagnético sofre a ação de uma força dada por
+\begin{equation}
+\vec{F}=\vec{F}_{el}+\vec{F}_{mag}=q\vec{E}+q\vec{v}\times\vec{B}
+\end{equation}
+onde $\vec{F}_{el}$ e $\vec{F}_{mag}$ representam as forças elétrica e magnética atuando sobre a partícula, respectivamente. Tal força é conhecida como força de Lorentz \cite{Grif, Reitz}.
+
+Na região $x<0$, não existe nenhuma força atuando sobre a partícula, pois $\vec{B}=\vec{E}=0$. Por outro lado, na região $x>0$ (e em $x=0$) a partícula sofrerá uma força, percebida somente do ponto de vista do referencial S, que é puramente magnética$^{1}$\lfoot{\hrulefill\\ \footnotesize{$^{1}$Interações de natureza elétrica estão ausentes aqui devido à ausência de cargas elétricas e campos magnéticos variando no tempo (como proposto no enunciado). O fato de termos $\vec{\nabla} \times \vec{B}=0$ em $x=0$ implica que, segundo a lei de Ampère-Maxwell, $\vec{E}$ não tem dependência temporal, no entanto, não significa que ele exista.}}, já que ela move-se em tal referencial sob a ação de $\vec{B}=B_0\hat{k}$, assim
+\begin{equation}
+\vec{F}^S=\vec{F}^{S}_{mag}=qv_0B_0(-\hat{j})\ \ 
+\end{equation}
+Na interface das regiões com e sem campo magnético, a situação vista por um observador no referencial $S'$ é um pouco mais sutil. Para sermos mais precisos em nossas conclusões, vamos obter a força que atua sobre a partícula imediatamente após ela penetrar na região de campo magnético situada em $x=0$. \\
+\indent Para um observador que se move junto com o referencial $S'$, a partícula carregada encontra-se em repouso e, consequentemente, não haverá força magnética. No entanto, para este observador, ocorrerá uma variação do campo magnético com o tempo. Essa variação, segundo a lei de Faraday, irá produzir um campo elétrico induzido nessa região que, de acordo com a lei de Lenz, deve produzir um fluxo magnético oposto ao da variação ocorrida \cite{Hall3}. A lei de Faraday escrita na forma diferencial torna mais clara sua interpretação física e compõe um conjunto de quatro equações conhecidas como equações de Maxwell \cite{Grif, Reitz, Jack}
+\begin{equation}
+\vec{\nabla}^{'}\times \vec{E}^{'}=-\frac{\partial \vec{B}^{'}}{\partial t^{'}}\ \ 
+\end{equation}
+Essa equação nos diz que a variação temporal do campo magnético irá produzir um campo elétrico induzido que rotaciona em torno da região onde ocorreu a variação. Perceba que mesmo o campo magnético sendo constante, para um observador no referencial $S'$, haverá uma variação temporal em $\vec{B}$ ao passar pela posição $x=0$.\\
+\indent Do cálculo vetorial \cite{Guid,Arfk, Butk}, sabemos que o rotacional de um vetor $\vec{\nabla}\times$ é dado, em coordenadas cartesianas para um referencial $S'$, por
+\begin{eqnarray}
+\vec{\nabla}^{'}\times \vec{E}^{'}&=&\left(\frac{\partial E_z^{'}}{\partial y^{'}}-\frac{\partial E_y^{'}}{\partial z^{'}}\right)\hat{i}+\left(\frac{\partial E_x^{'}}{\partial z^{'}}-\frac{\partial E_z^{'}}{\partial x^{'}}\right)\hat{j}+
+\nonumber
+\\ &
+&\left(\frac{\partial E_y^{'}}{\partial x^{'}}-\frac{\partial E_x^{'}}{\partial y^{'}}\right)\hat{k}
+\end{eqnarray}
+onde $E_x^{'}$, $E_y^{'}$ e $E_z^{'}$ são as componentes do vetor campo elétrico nas direções $x'$, $y'$ e $z'$, respectivamente, ou seja
+\begin{equation}
+\vec{E}^{'}=E_x^{'}\hat{i}+E_y^{'}\hat{j}+E_z^{'}\hat{k}\ \ 
+\end{equation}
+
+\fancyfoot{}
+
+
+Como estamos considerando baixas velocidades, os efeitos relativísticos são desprezíveis e os campos são invariantes. Como consequência, no lado direito da equação (3) podemos considerar $\vec{B}'=\vec{B}$. Assim, no referencial $S'$, ocorrerá uma variação de campo magnético $\Delta \vec{B}^{'}=\vec{B_f^{'}}-\vec{B_i^{'}}=B_0\hat{k}-0=B_0\hat{k}$ quando a partícula passa pela posição $x=0$. De acordo com a lei de Lenz \cite{Hall3}, o campo elétrico induzido estará no plano $xy$. Observemos também que nesse referencial, a variação de $\vec{B}$ ocorrida em $x=0$ terá somente dependência temporal e, consequentemente, as equações (3) e (4) resultam em:
+\begin{equation}
+-\frac{\partial E'_y}{\partial z'}\hat{i}+\frac{\partial E_x'}{\partial z'}\hat{j}+\left(\frac{\partial E_y'}{\partial x'}-\frac{\partial E_x'}{\partial y'}\right)\hat{k}=-\frac{dB_0}{dt'}\hat{k}\ \ 
+\end{equation}
+Para obter o campo elétrico induzido na região de transição, precisamos calcular as derivadas nas equações de Maxwell. No entanto, nesse caso podemos utilizar diferenças finitas, o que equivale a dizer, fisicamente, que o campo varia linearmente na região de transição. Assim, podemos fazer a aproximação
+\begin{equation}
+	\frac{d\vec{B}'}{dt'}\approx \frac{\Delta \vec{B}'}{\Delta t'}\ \ 
+\end{equation}
+
+A variação de campo, e consequentemente os fenômenos físicos de interesse ocorrem somente na fronteira entre as regiões com e sem campo magnético, portanto, podemos imaginar, sem perda de generalidade, que nesse ponto o campo elétrico induzido $\vec{E'}$ terá somente componente $y$, logo
+\begin{equation}
+	\frac{\partial \vec{E}'_y}{\partial x'}=\frac{d\vec{E}'_y}{dx'}\approx \frac{\Delta \vec{E}'_y}{\Delta x'}\ \ 
+\end{equation}
+Esse fato aliado à igualdade de vetores, nos permite reescrever a equação (6) como
+\begin{equation}
+	\Delta E'_y=-\frac{\Delta x'}{\Delta t'}\Delta B'
+\end{equation}
+onde $\frac{\Delta x'}{\Delta t'}=v'$ é a velocidade (com relação ao referencial $S'$) com que a interface se aproxima da partícula carregada e $\Delta E'_y$ e $\Delta B'$ são iguais a $E'_y$ e $B_0$, respectivamente. Como $v_0=-v'$, o campo elétrico induzido pela variação do campo magnético, visto por um observador no referencial $S'$ pode ser escrito como
+\begin{equation}
+\vec{E}'=E_y'(-\hat{j})=v_0 B_0(-\hat{j})\ \ 
+\end{equation}
+Como consequência, a força que age sobre a partícula para um observador que se move junto com a carga no referencial $S'$ é uma força elétrica, ou seja
+\begin{equation}
+\vec{F}^{S'}=\vec{F}_{el}^{S'}=qv_0 B_0(-\hat{j})\ \ 
+\end{equation}
+De acordo com as equações (2) e (11), vemos que
+\begin{equation}
+\vec{F}_{mag}^{S}=\vec{F}_{el}^{S'}=qv_0 B_0(-\hat{j})
+\end{equation}
+e a lei física permanece a mesma para os dois referenciais inerciais. O que muda para os dois observadores situados em tais referenciais é a explicação do fenômeno. Para um observador em $S$ a força é gerada por um campo magnético enquanto para um observador em $S'$, a força é gerada por um campo elétrico induzido.
+
+\subsection{$\left(ii\right)$ - Altas velocidades: $v_0 \approx c$}
+
+Para altas velocidades, os efeitos relativísticos não podem ser desprezados, devendo-se levar em conta a transformação dos campos. Nessa transformação, as componentes do campo elétrico combinam-se com as do campo magnético e vice-versa. Além disso, não faz mais sentido considerar um campo elétrico e um campo magnético separadamente e, sim, um campo eletromagnético. Esse campo eletromagnético é uma quantidade tensorial e suas componentes irão transformar-se como as de um tensor de segunda ordem frente a uma transformação de Lorentz \cite{Ines,Reitz}. Considerando novamente que o referencial $S'$ está se movendo com velocidade $\vec{v}=v_0\hat{i}$ com relação ao referencial $S$ temos que as componentes do campo eletromagnético nesses referenciais são dadas por
+\begin{equation}
+\left \{
+\begin{array}{lr}
+B'_x=B_x \\
+\\
+B'_y=\gamma [B_y+(\beta/c)E_z] \\
+\\
+B'_z=\gamma [B_z-(\beta/c)E_y] \\
+\end{array}
+\right.
+\end{equation}
+e
+\begin{equation}
+\left \{
+\begin{array}{lr}
+E'_x=E_x \\
+\\
+E'_y=\gamma [E_y-\beta c B_z] \\
+\\
+E'_z=\gamma [E_z+\beta c B_y] \\
+\end{array}
+\right.
+\end{equation}
+onde $\beta=v_0/c$ e $\gamma=1/[1-(v_0/c)^2]^{1/2}$ é o fator de Lorentz.\\
+\indent Para um observador no referencial $S$ essas equações tornam-se
+\begin{equation}
+\left \{
+\begin{array}{lr}
+\vec{E}=(E_x,E_y,E_z)=(0,0,0)\\
+\\
+\vec{B}=(B_x,B_y,B_z)=(0,0,B_0)\\
+\end{array}
+\right.
+\end{equation}
+Por outro lado, no referencial $S'$ temos
+\begin{equation}
+\left \{
+\begin{array}{lr}
+\vec{E}'=(E'_x,E'_y,E'_z)=(0,-\gamma v_0 B_0,0)\\
+\\
+\vec{B}'=(B'_x,B'_y,B'_z)=(0,0,\gamma B_0)\\
+\end{array}
+\right.
+\end{equation}
+Assim, a força que agirá sobre a partícula no referencial $S$ será magnética, pois a partícula estará em movimento em relação a esse referencial, ou seja
+\begin{equation}
+\vec{F}^S=\vec{F}_{mag}^{S}=qv_0 B_0 (-\hat{j})\ \ 
+\end{equation}
+Devemos novamente enfatizar que a força observada no referencial $S'$ é de natureza elétrica, devido a uma variação de $\vec{B}$ nesse referencial. Entretanto, o módulo desta força é obtido pela transformação do campo eletromagnético quando estamos no regime de altas velocidades. Dessa forma,
+\begin{equation}
+\vec{F}^{S'}=\vec{F}_{el}^{S'}=qv_0 B'(-\hat{j})
+\end{equation}
+com $B'=\gamma B_0$. Aqui, chamamos atenção ao fato que
+\begin{equation}
+F^{S'}=\gamma F^S
+\end{equation}
+onde $\gamma \geq 1$, uma vez que as linhas de força ficam mais próximas nas direções transversais ao movimento e, consequentemente, a intensidade do campo aumenta por um fator $\gamma$ \cite{Jack}.
+
+\section{Caso 2}
+Vamos considerar agora que na região $x\geq0$ existe um campo elétrico uniforme aplicado na direção $y$, ou seja, $\vec{E}=E_0\hat{j}$. Esse campo elétrico pode ser gerado, por exemplo, entre as placas de um capacitor de placas paralelas.
+
+\fancyfoot{}
+
+\subsection{$\left(i\right) - $Baixas velocidades: $v_0 \ll c$}
+
+Novamente, na região $x<0$, não existe nem força elétrica nem força magnética pois, $\vec{B}=\vec{E}=0$ e vamos observar o que ocorre na fronteira entre as  regiões com e sem campo elétrico, ou seja, estaremos interessados em fenômenos que ocorrerão em $x=0$. Como foi considerado no caso 1, vamos obter a força que atua sobre a partícula imediadamente após ela penetrar a região de campo.
+
+Em relação ao referencial $S$, a partícula com velocidade $\vec{v}=v_0 \hat{i}$ está sujeita a um campo elétrico $\vec{E}=E_0\hat{j}$. Com isso, a força que age sobre ela será puramente elétrica$^{2}$\lfoot{\hrulefill\\ \footnotesize{$^{2}$Interações de natureza magnética estão ausentes aqui devido à ausência de correntes e campos elétricos variando no tempo (como proposto no enunciado). O fato de termos $\vec{\nabla} \times \vec{E}=0$ em $x=0$ implica que, segundo a lei de Faraday, $\vec{B}$ não tem dependência temporal, no entanto, não significa que ele exista.}}, dada por
+\begin{equation}
+\vec{F}^S=\vec{F}_{el}^S=qE_0\hat{j}\ \ 
+\end{equation}
+Nesse mesmo instante, podemos analisar a força que atua sobre a partícula em relação ao referencial $S'$. Nesse referencial, um observador perceberá uma variação do campo elétrico com o tempo. Pela lei de Ampère \cite{Hall3}, sabemos que essa variação temporal em $\vec{E}$ será responsável pelo aparecimento de um campo magnético induzido na região do espaço onde ocorreu a variação. Na forma diferencial, a lei de Ampère torna mais fácil sua interpretação e assim como a lei de Faraday faz parte das equações de Maxwell \cite{Grif, Reitz, Jack}
+\begin{equation}
+\vec{\nabla}^{'}\times \vec{B}^{'}=\frac{1}{c^2} \frac{\partial \vec{E}^{'}}{\partial t^{'}}\ \ 
+\end{equation}
+Essa equação nos diz que a variação temporal do campo elétrico irá produzir um campo magnético induzido que rotaciona em torno da região onde ocorreu a variação. Analogamente ao caso 1, podemos considerar a invariância dos campos em baixas velocidades e escrever $\vec{E}'=\vec{E}$ no lado direito da equação (21). Usaremos a mesma definição do rotacional de um vetor dada pela eq. (4), os argumentos a respeito do campo induzido e das derivadas nas equações de Maxwell na região de transição para encontrar uma solução da eq. (21) aplicada ao vetor $\vec{B}^{'}=B^{'}_x\hat{i}+B^{'}_y\hat{j}+B^{'}_z\hat{k}$. Com isso, obtemos que o vetor campo magnético induzido na fronteira das regiões analisadas será da forma
+\begin{equation}
+ \vec{B}^{'}=\frac{E_0v_0}{c^2}(-\hat{k})\ \ 
+\end{equation}
+
+Uma importante observação merece destaque nesse ponto: o fato de que mesmo na presença de um campo magnético, não haverá força magnética aplicada, vista por um observador no referencial $S'$, pois a partícula está em repouso nesse referencial. Assim, a força que age sobre a partícula vista por um observador que se move junto com o referencial $S'$ é de origem puramente elétrica, ou seja,
+\begin{equation}
+\vec{F}^{S'}=\vec{F}_{el}^{S'}=qE_0\hat{j}\ \ 
+\end{equation}
+Novamente chegamos em um resultado consistente com as leis físicas do eletromagnetismo e dois observadores situados nos referenciais inerciais $S$ e $S'$ concordarão quanto à forma da interação ente a partícula e o campo, a saber
+\begin{equation}
+	\vec{F}_{el}^{S}=\vec{F}_{el}^{S'}=qE_0\hat{j}\ \ 
+\end{equation}
+
+\subsection{$\left(ii\right)$ - Altas velocidades: $v_0 \approx c$}
+
+Assim como foi feito anteriormente, temos que considerar o campo eletromagnético. Sabendo que o campo elétrico aplicado é dado por $\vec{E}=E_0\hat{j}$, podemos usar as equações (13) e (14) para escrever as componentes do campo eletromagnético nesses referenciais da seguinte forma:
+\begin{equation}
+\left \{
+\begin{array}{lr}
+\vec{E}=(E_x,E_y,E_z)=(0,E_0,0)\\
+\\
+\vec{B}=(B_x,B_y,B_z)=(0,0,0)\\
+\end{array}
+\right.
+\end{equation}
+\begin{equation}
+\left \{
+\begin{array}{lr}
+\vec{E}'=(E'_x,E'_y,E'_z)=(0,\gamma E_0,0)\\
+\\
+\vec{B}'=(B^{'}_x,B^{'}_y,B^{'}_z)=\left(0,0,-\frac{\gamma \beta}{c} E_0\right)\\
+\end{array}
+\right.
+\end{equation}
+Assim, no referencial $S$, a força que age sobre a partícula é dada por
+\begin{equation}
+\vec{F}^S=\vec{F}_{el}^S=qE_0 \hat{j}\ \ 
+\end{equation}
+Por outro lado, no referencial $S'$, a partícula carregada sofrerá a ação de uma força puramente elétrica (devido ao campo elétrico transformado $\vec{E}'$) mesmo na presença de um campo magnético transformado $\vec{B}'$. Esse resultado é uma consequência direta do fato da partícula encontrar-se em repouso neste referencial. Com isso, temos
+\begin{equation}
+\vec{F}^{S'}=\vec{F}_{el}^{S'}=qE'_y\hat{j}=\gamma qE_0\hat{j}\ \ 
+\end{equation}
+Novamente, podemos notar que
+\begin{equation}
+F^{S'}=\gamma F^{S}
+\end{equation}
+onde $\gamma \geq 1$.
+
+\fancyfoot{}
+
+\section{Conclusão}
+Neste trabalho apresentamos dois exemplos simples que mostram a conexão entre a TRE e a Teoria do Eletromagnetismo como uma proposta de atividade didática complementar dentro do currículo das disciplinas de graduação, possibilitando ao aluno uma melhor compreensão da importância dessas duas grandes teorias da Física e como a Teoria do Eletromagnetismo fora fundamental para o desenvolvimento da TRE. Tais exemplos vêm preencher uma lacuna nas referidas disciplinas, que em sua grande maioria tratam o assunto da Relatividade de maneira hermética não se preocupando em fazer relações com teorias anteriores que foram fundamentais para sua formulação.
+
+
+\begin{thebibliography}{99}
+
+\bibitem{MAT} \textit{Science Teaching: The Role of History and Philosophy of Science}, M. R. Mathews, Routledge, New York (1994).
+
+\bibitem{Hall4} \textit{Fundamentos de Física}, D. Halliday, R. Resnick e J. Walker, Vol. \textbf{4}, 9$^a$ edição, LTC editora, Rio de Janeiro (2012).
+
+\bibitem{Eins} On the Electrodynamics of moving bodies, A. Einstein (1905).
+
+\bibitem{Eins1} \textit{A Evolução da Física}, A. Einstein, L. Infeld, 2$^a$ edição, tradução Giasone Rebuá, Rio de Janeiro: Zahar Editores (1966).
+
+\bibitem {TRE} \textit{Teoria da Relatividade Especial}, Roberto de Andrade Martins, a 2$^a$ edição, Editora Livraria da Física, São Paulo (2012).
+
+\bibitem {TEM} \textit{Eletricidade e Magnetismo}, Curso de Fisica de Berkeley, Edward M. Purcell, Volume 2, Edgard Bl\"{u}cher, Sao Paulo (1973).
+
+\bibitem{JF} The Story of Electrical and Magnetic Measurements: From 500 BC To the 1940s, J.F. Keithley, IEEE, New York, pp. 2 (1999).
+
+\bibitem{Thales} A life of its own: The tenuous connection between Thales of Miletus and the study of electrostatic charging, Journal of Electrostatics \textbf{70}, 309-311 (2012).
+
+\bibitem{Coulomb} \textit{Coulomb and the evolution of physics and engineering in eighteenth-century France}, C. Stewart Gillmor, Princeton University Press (1972).
+
+\bibitem{Galvani} Luigi Galvani's path to animal electricity, Marco Piccolino, C. R. Biologies \textbf{329}, 303-318 (2006).
+
+\bibitem {Galvani2} Luigi Galvani and the foundations of electrophysiology, Christian Cajavilca, Joseph Varon and George L. Sternbach, Resuscitation, Vol. \textbf{80}, Issue 2, Pages 159-162 (2009).
+
+\bibitem{Volta} 1799-1999: Alessandro Volta's `Electric Pile' Two hundred years, but it doesn't seem like it, Journal of Electroanalytical Chemistry \textbf{460}, 1-4 (1999).
+
+\bibitem{Poisson} Mémoire sur les inégalités séculaires des moyens mouvements des planètes, S. D. Poisson, Journal de l'École Polytechnique, 15$^e$ cahier, \textbf{8}, p. 1-56 (1808).
+
+\bibitem{Poisson2} Mémoire sur la distribution de l'électricité à la surface des corps conducteurs, S. D. Poisson, Mémoires de la Classe des Sciences Mathématiques et Physiques de l'Institut Impérial de France, \textbf{12}, première partie, p. 1-92 (1812).
+
+\bibitem{Oersted} Experiments on the Effect of a Current of Electricity on the Magnetic Needle, H. C. Oersted, Annals of Philosophy, \textbf{16}, 273-6, (1820).
+
+\bibitem{Biot} Sur l'aimantation imprimée aux métaux par l'électricité en mouvement, J. B. BIOT and F. SAVART, \textbf{2}, pp. 80-125, in Société Française de Physique. Collection de Mémoires
+Relatifs a la Physique. Paris: Gauthier-Villars (1885).
+
+\bibitem{Hall3} \textit{Fundamentos de Física}, D. Halliday, R. Resnick e J. Walker, Vol. 3, 9$^a$ edição, LTC editora, Rio de Janeiro (2012).
+
+\bibitem{Grif} \textit{Introduction to Electrodynamics}, David J. Griffiths, 3$^a$ ed., Prentice Hall, New Jersey (1999).
+
+\bibitem{Reitz} \textit{Fundamentos da Teoria Eletromagnética}, J. R. Reitz, F. J. Milford, R. W. Chisty, 1$^a$ edição, Editora Campus, Rio de Janeiro (1982).
+
+\bibitem{Faraday} How the Great Scientists Reasoned, Gary G. Tibbetts, Cap. 5, Pages 61-77 (2013).
+
+\bibitem{Maxwell} On Physical lines of force, J. C. Maxwell, Philosophical Magazine and Journal of Science, Fourth Series, (1861).
+
+\bibitem{Maxwell2} A dynamical theory of the electromagnetic field, J. C. Maxwell, Philos Trans R Soc Lond, \textbf{155}, 459-512 (1865).
+
+\bibitem{Jack} \textit{Classical Electrodynamics}, J. D. Jackson , Third Edition, John Wiley $\&$ Sons, Inc., New Jersey (1999).
+
+\bibitem{Guid} \textit{Um curso de Cálculo}, vol. 3, Hamilton L. Guidorizzi, 5$^a$ edição, LTC editora, Rio de Janeiro (2002).
+
+\bibitem{Arfk} \textit{Mathematical methods for physicists}, G. B. Arfken, H. J. Weber and  F. E. Harris, Sixth Edition, Academic Press, Lewiston, NY (2005).
+
+\bibitem{Butk} \textit{Mathematical physicists}, E. Butkov, First printing, St. John's University, New York (1973).
+
+\bibitem{Ines} Eletromagnetismo e relatividade: continuidade formal - ruptura conceitual, M. I. N. Ota, RBHM, Vol \textbf{5}, $n^o$ 10, p.27-42, 2005.
+
+
+\end{thebibliography}
+\end{document}

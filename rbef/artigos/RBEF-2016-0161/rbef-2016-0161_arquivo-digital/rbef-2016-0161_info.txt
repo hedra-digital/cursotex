@@ -1,0 +1,19 @@
+RBEF-2016-0161.R2
+
+Revista Brasileira de Ensino de Física, v. 39, n. 2, elocation (2017)
+www.scielo.br/rbef
+DOI: http://dx.doi.org/10.1590/1806-9126-RBEF-2016-0161
+Artigos Gerais
+
+Recebido em 27 de Julho, 2016. Revisado em 09 de Novembro, 2016. Aceito em 9 de Novembro, 2016.
+
+I. R. O. Ramos2, J. P. M. Braga3, J. W. C. Silva1, A. P. Lima1, L. M. Holanda1*
+
+2Universidade Estadual Vale do Acarajú, Sobral, CE, Brasil
+1Universidade Federal Rural do Semi-Árido, Pau dos Ferros, RN, Brasil
+3Universidade da Integração Internacional da Lusofonia Afro-Brasileira, Acarape, CE, Brasil
+
+*Endereço para correspondência: lino.holanda@ufersa.edu.br
+
+Título em inglês
+On the induction of the electromagnetic field in inertial reference frames by Galilean and Lorentz transformations
