@@ -1,0 +1,56 @@
+\RequirePackage{scielostyle}
+% Fonts and encodings
+\RequirePackage[utf8]{inputenc}
+\RequirePackage[english,french,spanish,es-tabla,brazil]{babel}
+% Typographics
+\RequirePackage{multicol}
+\RequirePackage[bookmarks=true,breaklinks=true]{hyperref}
+\RequirePackage[normalem]{ulem}
+\RequirePackage[stable,bottom]{footmisc} 
+\RequirePackage[blocks]{authblk} %blocks: always author/affiliation blocks
+\RequirePackage[protrusion=true,
+            expansion=true,
+            %final,babel
+            ]{microtype} % melhor justificação de parágrafos
+\RequirePackage{lipsum}
+
+%\RequirePackage[outer=2cm,inner=1.3cm,bottom=3cm,top=2.5cm]{geometry}
+
+
+% First page
+\RequirePackage{ccicons} % ícones creative commons
+% Images: 
+\RequirePackage{wrapfig}
+\RequirePackage{graphicx} % para inserção de figuras
+% Maths:
+\RequirePackage{amssymb} %para \mathbb{text}
+\RequirePackage{mathrsfs} 
+\RequirePackage{mathtools}%substitui e acrescenta funções a amsmath
+	% \RequirePackage{multirow} % células em várias linhas em tabelas.
+\RequirePackage{penalidades}
+\RequirePackage{flushend}
+% Tables
+\RequirePackage{tabularx} % para facilitar nas tabelas
+\RequirePackage{textcomp}
+
+
+\setlength{\parskip}{1pt plus 1pt} 
+
+
+% Page size
+\setulmarginsandblock{3cm}{2.5cm}{*}
+\setlrmarginsandblock{1.3cm}{2cm}{*}
+\checkandfixthelayout
+
+% First page style
+\makepagestyle{abre}
+\makeoddhead{abre}{
+	\small
+	%\rbef, \volumerevista, \numerorevista, \numerocabecalho~(\anorevista) %(ano em parênteses, tire parênteses se quiser) 
+	\url{www.scielo.br/rbef}
+	%\doirevista
+	}{}{
+	%\tipodeartigotexto
+	\ccbyncnd\par
+	Licença Creative Commons
+	}
