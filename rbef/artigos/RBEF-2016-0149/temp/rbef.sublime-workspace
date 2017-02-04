@@ -159,30 +159,10 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": "ins",
+		"height": 385.0,
+		"last_filter": "inst",
 		"selected_items":
 		[
-			[
-				"ins",
-				"Package Control: Install Package"
-			],
-			[
-				"sublim",
-				"Sublimerge: Compare to Revision..."
-			],
-			[
-				"git: sta",
-				"Git: Status"
-			],
-			[
-				"qui",
-				"Git: Quick Commit (repo)"
-			],
-			[
-				"git: add",
-				"Git: Add All"
-			],
 			[
 				"inst",
 				"Package Control: Install Package"
@@ -194,6 +174,10 @@
 			[
 				"revi",
 				"Sublimerge: Compare Revision to Revision..."
+			],
+			[
+				"qui",
+				"Git: Quick Commit (repo)"
 			],
 			[
 				"make",
@@ -288,7 +272,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 521.0
+		"width": 485.0
 	},
 	"console":
 	{
@@ -309,16 +293,10 @@
 	},
 	"expanded_folders":
 	[
-		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef",
-		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/artigo1",
-		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/artigos",
-		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/artigos/RBEF-2016-0149",
-		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/artigos/RBEF-2016-0149/rbef-2016-0149_arquivo-digital"
+		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef"
 	],
 	"file_history":
 	[
-		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/artigo1/rbef.tex",
-		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/artigos/RBEF-2016-0149/rbef-2016-0149_arquivo-digital/rbef-2016-0149.tex",
 		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/artigo1/fig3.jpg",
 		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/artigo1/ARTIGO.tex",
 		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/artigo1/METADADOS.tex",
@@ -444,7 +422,9 @@
 		"/home/hipatia/Dropbox/EdLAB/DANCADRAMA/TRECHO5131.tex",
 		"/home/hipatia/Dropbox/EdLAB/DANCADRAMA/TRECHO5130.tex",
 		"/home/hipatia/Dropbox/EdLAB/DANCADRAMA/TITULODOCAPITULO5141.tex",
-		"/home/hipatia/Dropbox/EdLAB/DANCADRAMA/TESTE.tex"
+		"/home/hipatia/Dropbox/EdLAB/DANCADRAMA/TESTE.tex",
+		"/home/hipatia/Dropbox/EdLAB/DANCADRAMA/SENTIDO5126.tex",
+		"/home/hipatia/Dropbox/EdLAB/DANCADRAMA/PENSAROPENSAMENTODENINGUEM5115.tex"
 	],
 	"find":
 	{
@@ -1244,7 +1224,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 325.0,
+	"side_bar_width": 235.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
