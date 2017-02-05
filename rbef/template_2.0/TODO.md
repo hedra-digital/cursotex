@@ -2,12 +2,15 @@ ToDoList
 ========
 
 * Modelo básico com memoir✓ 
+* Pacotes necessários✓
 * Balancear colunas✓
-* Pacotes necessários
-* Head
-* Primeira página
+* Head✓
+* Primeira página✓
 * Medidas as margens
 * Integração com scielostyle.sty
+
+* Metadados
+
 * Criar forma de colocar uma imagem numa área ocupando duas colunas
 * Criar primeiro arquivo com exemplo
 

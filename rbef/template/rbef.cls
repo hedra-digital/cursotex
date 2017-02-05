@@ -70,8 +70,6 @@
 \fi
 
 \RequirePackage{textcomp}
-
-
 \RequirePackage{microtype} % melhor justificação de parágrafos
 \RequirePackage{scrlayer-scrpage} %antigo scrpage2
 \RequirePackage{graphicx} % para inserção de figuras
