@@ -1,3 +1,4 @@
+\RequirePackage{lipsum}
 % Fonts and encodings
 \RequirePackage[utf8]{inputenc}
 \RequirePackage[english,french,spanish,es-tabla,brazil]{babel}
@@ -7,11 +8,13 @@
 \RequirePackage[normalem]{ulem}
 \RequirePackage[stable,bottom]{footmisc} 
 \RequirePackage[blocks]{authblk} %blocks: always author/affiliation blocks
+\renewcommand\Affilfont{\small} %fonte afiliação. %\itshape
+\renewcommand\Authand{, } % separação entre penúltimo e último autor no título
+\renewcommand\Authands{, } % separação entre autores no título
 \RequirePackage[protrusion=true,
             expansion=true,
             %final,babel
             ]{microtype} % melhor justificação de parágrafos
-\RequirePackage{lipsum}
 
 %\RequirePackage[outer=2cm,inner=1.3cm,bottom=3cm,top=2.5cm]{geometry}
 
@@ -36,10 +39,10 @@
 
 
 % The page 
-\setlength{\parskip}{1pt plus 1pt minus 1pt} 
+\setlength{\parskip}{1pt plus 2pt minus 2pt} 
 \setlength{\columnsep}{18pt} %espaço entre colunas
-\setlength{\footskip}{36pt} % espaço entre texto e rodapé
-\setlength{\afterchapskip}{3em plus 0.75em minus 0.25em}%}2em plus 1em minus 1em}%
+\setlength{\footskip}{1pt plus 1pt minus 1pt} % espaço entre texto e rodapé
+\setlength{\afterchapskip}{0.85em plus 0.5em minus 0.25em}%}2em plus 1em minus 1em}%
 \setulmarginsandblock{3cm}{2.5cm}{*}
 \setlrmarginsandblock{1.3cm}{2cm}{*}
 \checkandfixthelayout
@@ -47,8 +50,12 @@
 % First page style
 \makepagestyle{abre}
 \makeoddhead{abre}{
-	\small
-	%\rbef, \volumerevista, \numerorevista, \numerocabecalho~(\anorevista) %(ano em parênteses, tire parênteses se quiser) 
+	%\small
+	%\rbef, 
+	%\volumerevista, 
+	%\numerorevista, 
+	%\numerocabecalho~(\anorevista) 
+	%(ano em parênteses, tire parênteses se quiser) 
 	\url{www.scielo.br/rbef}
 	%\doirevista
 	}{}{
@@ -56,3 +63,5 @@
 	\ccbyncnd\par
 	Licença Creative Commons
 	}
+
+	%\addtocounter{page}{566} %% \setcounter produces extra white page
