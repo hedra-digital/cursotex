@@ -2,6 +2,45 @@
 \usepackage{scielostyle}
 \usepackage{rbef}
 
+\newcommand{\volumerevista}{}
+\renewcommand{\volume}[1]{\renewcommand{\volumerevista}{vol. #1}}
+\newcommand{\numerorevista}{}
+\newcommand{\numero}[1]{\renewcommand{\numerorevista}{nº #1}}
+\newcommand{\anorevista}{}
+\newcommand{\ano}[1]{\renewcommand{\anorevista}{#1}}
+\newcommand{\doirevista}{}
+\newcommand{\doi}[1]{\renewcommand{\doirevista}{DOI: #1}}
+\newcommand{\titleheader}{}
+\newcommand{\titulocabecalho}[1]{\renewcommand{\titleheader}{#1}}
+\newcommand{\authorheader}{}
+\newcommand{\autorcabecalho}[1]{\renewcommand{\authorheader}{#1}}
+\newcommand{\numerocabecalho}{}
+\newcommand{\numeracao}[1]{\renewcommand{\numerocabecalho}{#1}}
+\newcommand{\tipodeartigotexto}{}
+\newcommand{\tipodeartigo}[1]{\renewcommand{\tipodeartigotexto}{#1}}
+\newcommand{\rbef}{Revista Brasileira de Ensino de Física}
+
+\titulocabecalho{Testando outro título para o cabeço}
+\autorcabecalho{Autor do Cabeçalho}
+\numeracao{xxxx}
+\volume{xx}
+\numero{xx}
+\ano{2010xx}
+\doi{http://dx.doi.org/testededoi}
+\tipodeartigo{Artigos Gerais}
+
+
+
+
+\title{\textbf{Título}}
+\author{Órfão}
+\author[1]{Fulano de Tal}
+\author[2]{Beltrano Aristides Quadrilátero}
+\affil[1]{Instituto de Geologia, 
+			Universidade do Triângulo de Ferro.
+			\thanks{\href{emailto:fulano@ferro.com}{fulano@ferro.com}}} 
+\affil[2]{Universidade do outro autor.}
+
 
 
 \begin{document}
