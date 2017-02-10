@@ -41,15 +41,11 @@
 % The page 
 \setlength{\parskip}{1pt plus 2pt minus 2pt} 
 \setlength{\columnsep}{18pt} %espaço entre colunas
-\setlength{\footskip}{1pt plus 1pt minus 1pt} % espaço entre texto e rodapé
+\setlength{\footskip}{1cm} % espaço entre texto e rodapé
 \setlength{\afterchapskip}{0.85em plus 0.5em minus 0.25em}%}2em plus 1em minus 1em}%
-\setulmarginsandblock{3cm}{2.5cm}{*}
+\setulmarginsandblock{2.5cm}{3cm}{*}
 \setlrmarginsandblock{1.3cm}{2cm}{*}
 \checkandfixthelayout
-
-
-
-
 
 % First page style
 \makepagestyle{abre}
@@ -67,9 +63,9 @@
 	}
 \makepagestyle{rbef}
 \makeoddhead{rbef}{\numerocabecalho-\thepage}{}{\titleheader}
-\makeevenhead{rbef}{\titleheader-\thepage}{}{\numerocabecalho}
-\makeoddfoot{rbef}{A}{B}{C}
-\makeevenfoot{rbef}{C}{B}{A}
+\makeevenhead{rbef}{\titleheader}{}{\numerocabecalho-\thepage}
+\makeoddfoot{rbef}{\small\rbef}{}{\small\doirevista}
+\makeevenfoot{rbef}{\small\doirevista}{}{\small\rbef}
 \pagestyle{rbef}
 
 
