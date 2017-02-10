@@ -1,0 +1,92 @@
+\RequirePackage{lipsum}
+% Fonts and encodings
+\RequirePackage[utf8]{inputenc}
+\RequirePackage[english,french,spanish,es-tabla,brazil]{babel}
+% Typographics
+\RequirePackage{multicol}
+\RequirePackage[bookmarks=true,breaklinks=true]{hyperref}
+\RequirePackage[normalem]{ulem}
+\RequirePackage[stable,bottom]{footmisc} 
+\RequirePackage[blocks]{authblk} %blocks: always author/affiliation blocks
+\renewcommand\Affilfont{\small} %fonte afiliação. %\itshape
+\renewcommand\Authand{, } % separação entre penúltimo e último autor no título
+\renewcommand\Authands{, } % separação entre autores no título
+\RequirePackage[protrusion=true,
+            expansion=true,
+            %final,babel
+            ]{microtype} % melhor justificação de parágrafos
+
+%\RequirePackage[outer=2cm,inner=1.3cm,bottom=3cm,top=2.5cm]{geometry}
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% First page
+\RequirePackage{ccicons} % ícones creative commons
+% Images: 
+\RequirePackage{wrapfig}
+\RequirePackage{graphicx} % para inserção de figuras
+% Maths:
+\RequirePackage{amssymb} %para \mathbb{text}
+\RequirePackage{mathrsfs} 
+\RequirePackage{mathtools}%substitui e acrescenta funções a amsmath
+	% \RequirePackage{multirow} % células em várias linhas em tabelas.
+\RequirePackage{penalidades}
+\RequirePackage{flushend}
+\RequirePackage{balance}
+% Tables
+\RequirePackage{tabularx} % para facilitar nas tabelas
+\RequirePackage{textcomp}
+
+
+
+% The page 
+\setlength{\parskip}{1pt plus 2pt minus 2pt} 
+\setlength{\columnsep}{18pt} %espaço entre colunas
+\setlength{\footskip}{1pt plus 1pt minus 1pt} % espaço entre texto e rodapé
+\setlength{\afterchapskip}{0.85em plus 0.5em minus 0.25em}%}2em plus 1em minus 1em}%
+\setulmarginsandblock{3cm}{2.5cm}{*}
+\setlrmarginsandblock{1.3cm}{2cm}{*}
+\checkandfixthelayout
+
+
+
+\newcommand{\volumerevista}{}
+\renewcommand{\volume}[1]{\renewcommand{\volumerevista}{vol. #1}}
+\newcommand{\numerorevista}{}
+\newcommand{\numero}[1]{\renewcommand{\numerorevista}{nº #1}}
+\newcommand{\anorevista}{}
+\newcommand{\ano}[1]{\renewcommand{\anorevista}{#1}}
+\newcommand{\doirevista}{}
+\newcommand{\doi}[1]{\renewcommand{\doirevista}{DOI: #1}}
+\newcommand{\titleheader}{}
+\newcommand{\titulocabecalho}[1]{\renewcommand{\titleheader}{#1}}
+\newcommand{\authorheader}{}
+\newcommand{\autorcabecalho}[1]{\renewcommand{\authorheader}{#1}}
+\newcommand{\numerocabecalho}{}
+\newcommand{\numeracao}[1]{\renewcommand{\numerocabecalho}{#1}}
+\newcommand{\tipodeartigotexto}{}
+\newcommand{\tipodeartigo}[1]{\renewcommand{\tipodeartigotexto}{#1}}
+\newcommand{\rbef}{Revista Brasileira de Ensino de Física}
+
+% First page style
+\makepagestyle{abre}
+\makeoddhead{abre}{\small\rbef, 
+	\volumerevista, 
+	\numerorevista, 
+	\numerocabecalho~(\anorevista)\par 
+	%(ano em parênteses, tire parênteses se quiser) 
+	\url{www.scielo.br/rbef}\par
+	\doirevista
+	}{}{
+	\tipodeartigotexto\par
+	\ccbyncnd\par
+	Licença Creative Commons
+	}
+
+%\makeoddhead{plain}{A}{B}{C}
+%\makeevenhead{plain}{C}{B}{A}
+%\makeoddfoot{plain}{A}{B}{C}
+%\makeevenfoot{plain}{C}{B}{A}
+
+
+
+	%\addtocounter{page}{566} %% \setcounter produces extra white page
