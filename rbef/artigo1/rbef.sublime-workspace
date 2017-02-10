@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"foo",
+				"footnote\ttex"
+			],
+			[
+				"mak",
+				"makeatother\tlatex-document"
+			],
+			[
 				"sele",
 				"selectlanguage{language}\tbabel"
 			],
@@ -71,8 +79,135 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/ACRIANCAMARAVILHOSA3440.tex",
+			"settings":
+			{
+				"buffer_size": 37757,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/COMOO7FICOULOUCO3437.tex",
+			"settings":
+			{
+				"buffer_size": 25498,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/DEDICATORIA3948.tex",
+			"settings":
+			{
+				"buffer_size": 278,
+				"encoding": "UTF-8",
+				"line_ending": "LFCR"
+			}
+		},
+		{
+			"file": "/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/INPUTS.tex",
+			"settings":
+			{
+				"buffer_size": 345,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/INTRODUCAO3935.tex",
+			"settings":
+			{
+				"buffer_size": 23474,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/LIVRO.tex",
+			"settings":
+			{
+				"buffer_size": 160,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/MENTIRASELIRIOS3438.tex",
+			"settings":
+			{
+				"buffer_size": 9076,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OCASTELODOREI3439.tex",
+			"settings":
+			{
+				"buffer_size": 32055,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OCONSTRUTORDESOMBRAS3436.tex",
+			"settings":
+			{
+				"buffer_size": 26237,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OGIGANTEINVISIVEL3435.tex",
+			"settings":
+			{
+				"buffer_size": 28480,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OPRINCIPEDAROSA3434.tex",
+			"settings":
+			{
+				"buffer_size": 37674,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/SOBOPORDOSOL3433.tex",
+			"settings":
+			{
+				"buffer_size": 15553,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\n    \\begin{tabular}{lcr}  \n    a&a&a\\\\ \n    bbb&bbb&ccc \n    \\end{tabular} \n\n\\begin{versobranco}\nwith a coherent    phrase,\ny a subordinate\\hspace{3cm} phrase,\ne subordinate phrase.\n\nwith a coherent phrase,\na subordinate phrase,\nsubordinate phrase.\n\\end{versobranco}\n",
+			"file": "/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/TESTE.tex",
+			"file_size": 268,
+			"file_write_time": 131311381276873735,
+			"settings":
+			{
+				"buffer_size": 268,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 36 files for \"Ele ainda era\"\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OPRINCIPEDAROSA3434.tex:\n   14  podia ser.\n   15  \n   16: Ele ainda era um garoto, e nunca tinha visto sua mãe, que tivera um belo\n   17  e doce semblante e que morrera quando ele era apenas um bebê. Amiúde\n   18  ficava muito triste por não ter tido mãe, quando pensava que os outros\n\n1 match in 1 file\n\n\nSearching 36 files for \"Oh, Rei, Pai\"\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OPRINCIPEDAROSA3434.tex:\n  361  evitaram ter uma nova esperança. O~Príncipe falou:\n  362  \n  363: ``Oh, Rei, Pai, antes que decida algo, escute\"-me. É~certo que, se há\n  364  perigo no Reino, o primeiro a enfrentá\"-lo é o Príncipe, em quem o povo\n  365  confia. Se há dor a ser sentida, quem deve senti\"-la antes dele? Se a\n\n1 match in 1 file\n\n\nSearching 36 files for \"Ela encontrou\"-o\"\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OPRINCIPEDAROSA3434.tex:\n  456  sofrendo por seu filho em perigo.\n  457  \n  458: Ela encontrou\"-o em seus aposentos e ele, também, estava rezando. Ela se\n  459  ajoelhou ao seu lado, e eles colocaram os braços em torno um do outro --\n  460  o velho Rei e a criança órfã -- e rezaram juntos. E~assim ambos se\n\n1 match in 1 file\n\n\nSearching 36 files for \"Então, à medida que\"\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OPRINCIPEDAROSA3434.tex:\n  527  Muito tolo da parte deles.\n  528  \n  529: Então, à medida que o Gigante se aproximou, o Príncipe Zaphir sentiu que\n  530  a hora da batalha havia chegado.\n  531  \n\n1 match in 1 file\n\n\nSearching 36 files for \"O Príncipe Za\" (case sensitive)\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OPRINCIPEDAROSA3434.tex:\n   40  ``Aqui estou eu, príncipe. Também não estou dormindo''.\n   41  \n   42: O Príncipe Zaphir era tão bom e gentil que nunca machucou qualquer coisa\n   43  viva. Se ele via na sua frente um verme rastejando sobre a estrada,\n   44  passaria cuidadosamente acima dele para que não o machucasse. Se ele\n   ..\n  708  também colocou seus braços em torno dele e o beijou na boca.\n  709  \n  710: O Príncipe Zaphir falou, dizendo:\n  711  \n  712  ``Oh!, Rei, meu Pai, e oh!, Povo! -- Deus foi bom para conosco e Seu\n  ...\n  749  o Gigante.\n  750  \n  751: O Príncipe Zaphir tirou do capacete a pena que o Rei, seu pai, havia\n  752  antes lhe dado e usou\"-a novamente em seu chapéu. A~rosa que florescera\n  753  estava plantada no centro do jardim do palácio, e ela cresceu tanto que\n\n3 matches in 1 file\n\n\nSearching 36 files for \"Enquanto andavam\" (case sensitive)\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OCONSTRUTORDESOMBRAS3436.tex:\n  366  abatidos.\n  367  \n  368: Enquanto andavam, viram diante si o grande Gigante brumoso. E~ele agora\n  369  havia avançado até as fronteiras da cidade.\n  370  \n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OGIGANTEINVISIVEL3435.tex:\n  366  abatidos.\n  367  \n  368: Enquanto andavam, viram diante si o grande Gigante brumoso. E~ele agora\n  369  havia avançado até as fronteiras da cidade.\n  370  \n\n2 matches across 2 files\n\n\nSearching 36 files for \"O tempo segue em frente\" (case sensitive)\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OCONSTRUTORDESOMBRAS3436.tex:\n    2   \n    3  \n    4: O tempo segue em frente no País Sob o Pôr do Sol tanto quanto aqui.\n    5  \n    6  Muitos anos se passaram: e eles acarretaram muitas mudanças. E~agora,\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OGIGANTEINVISIVEL3435.tex:\n    2   \n    3  \n    4: O tempo segue em frente no País Sob o Pôr do Sol tanto quanto aqui.\n    5  \n    6  Muitos anos se passaram: e eles acarretaram muitas mudanças. E~agora,\n\n2 matches across 2 files\n\n\nSearching 36 files for \"Esse círculo inf\" (regex, case sensitive)\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OCONSTRUTORDESOMBRAS3436.tex:\n    7  enquanto vêm, passam as sombras escuras de todas as coisas que já foram.\n    8  \n    9: Esse círculo infinito, sombrio, rodopiante e movente é chamado de\n   10  \\emph{A Procissão do Passado Morto}. Nela, tudo é tal como já foi no\n   11  grande mundo. Não há mudanças em parte alguma; pois cada momento, à\n\n1 match in 1 file\n\n\nSearching 36 files for \"f\" (regex, case sensitive)\n\n0 matches\n\nSearching 36 files for \"seu único pov\" (regex)\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OCONSTRUTORDESOMBRAS3436.tex:\n   76  habitação é povoada por um passado espectral.\n   77  \n   78: Seu único povo é o do passado; pois, apesar de ele criar sombras, elas\n   79  não vivem com ele. Seus filhos saem imediatamente para suas casas no\n   80  grande mundo, e ele não sabe mais delas até que, na completude do tempo,\n\n1 match in 1 file\n\n\nSearching 36 files for \"ALgumas vezes\" (regex)\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/COMOO7FICOULOUCO3437.tex:\n   47  acabassem; então, seguia\"-o de volta para casa da mesma maneira.\n   48  \n   49: Tineboy gostava muito do Sr.~Gralha e algumas vezes costumava fazê\"-lo\n   50  entrar em sua sala durante as aulas. Mas o pássaro era muito sábio e não\n   51  entrava.\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OCONSTRUTORDESOMBRAS3436.tex:\n   57  derretem-se novamente em trevas misteriosas.\n   58  \n   59: Algumas vezes, o Construtor de Sombras atravessa as paredes vaporosas de\n   60: sua morada e mistura-se nas fileiras da Procissão. E algumas vezes uma\n   61  forma invocada pelo gesto de sua mão espectral, com um passo silencioso,\n   62  achega-se saindo da névoa e para ao seu lado.\n   63  \n   64  \n   65: Algumas vezes,\n   66  o Construtor de Sombras invoca num corpo adormecido uma alma que sonha;\n   67  então, por certo tempo, o vivo e o morto ficam face a face, e os homens\n   ..\n   89  em torno de sua morada solitária.\n   90  \n   91: Algumas vezes ele se senta e medita com os olhos fixos e fitos, nada\n   92  vendo; e então, lá no mar, há uma calmaria desnublada ou a treva negra\n   93  da noite. Em direção ao distante Norte ou Sul, durante longos meses, ele\n   ..\n   96  suaviza em sons de vida e de luz.\n   97  \n   98: Algumas vezes, com um franzido em seu rosto e um olhar duro, que raia e\n   99  lampeja relâmpagos negros, o Construtor de Sombras impele-se resoluto à\n  100  sua tarefa, e por todo o mundo as sombras marcham densas e rápidas.\n  ...\n  128  envolvem, ele trabalha dura e constantemente em sua tarefa solitária.\n  129  \n  130: Mas, algumas vezes, também o Construtor de Sombras tem suas alegrias.\n  131  Sombras bebês surgem, e imagens ensolaradas, iluminadas com doçura e\n  132  amor, escorregam sob seu toque, e se vão.\n  ...\n  144  \n  145  Em sua tarefa, o Construtor de Sombras faz invocações; e do nada\n  146: impalpável do Limiar provém o objeto de seu desejo. Algumas vezes, a\n  147  sombra irrompe cheia e fresca, e subitamente se perde nas trevas do\n  148  Portal do Horror; outras vezes, ela cresce suave e imperceptivelmente,\n  ...\n  227  Na longa pausa que se segue, enquanto o Construtor de Sombras observa,\n  228  tudo parece mudado. Do Limiar vem uma névoa, tal qual a que se suspende\n  229: algumas vezes sobre a superfície de um mar tropical.\n  230  \n  231  Aos poucos a névoa se afasta, e a proa de um portentoso navio, negra e\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OGIGANTEINVISIVEL3435.tex:\n   87  sentava e trabalhava, observando as flores que queria.\n   88  \n   89: Algumas vezes ela ficava muito triste, e suas lágrimas caíam espessas e\n   90  rápidas quando pensava em sua pobre mãe falecida. Ela parecia amiúde\n   91  sentir que sua mãe a estava observando a fim de olhar seu sorriso tenro\n   ..\n   94  cantos para escutá\"-la.\n   95  \n   96: Ela e os pássaros se tornaram grandes amigos, e algumas vezes, quando\n   97  ela cantava uma música, eles todos entoavam juntos, enquanto se sentavam\n   98  em volta dela em círculo, algumas notas que pareciam claramente dizer:\n   ..\n  481  Havia um pássaro velho que sempre se demorava mais, e frequentemente\n  482  dava muito mais ciscadas no pão quando este era bom para que conseguisse\n  483: uma refeição substanciosa. Algumas vezes ele continuava a se alimentar\n  484  até que Zaya balançasse o dedo a ele e dissesse:\n  485  \n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OPRINCIPEDAROSA3434.tex:\n   35  dormiam, ele ia para o bosque perto do palácio e pensava e pensava sobre\n   36  tudo o que era belo e verdadeiro, enquanto seu fiel cão Gomus se\n   37: agachava a seus pés e, algumas vezes, balançava a cauda, como se para\n   38  dizer:\n   39  \n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/SOBOPORDOSOL3433.tex:\n    7  glória e da beleza que o cerca.\n    8  \n    9: Algumas vezes, é\"-nos concedido vê\"-lo em sonhos.\n   10  \n   11  De vez em quando vêm Anjos ternamente, abanando com suas grandes asas\n   ..\n  165  \n  166  Ela não ficava em pé como os outros Anjos, mas flutuava para cima e para\n  167: baixo e por todo lado. Algumas vezes era somente uma pequena mancha, e,\n  168  então, repentinamente, sem parecer haver qualquer mudança, tornava\"-se\n  169  maior do que os grandes Espíritos Guardiões que eram os mesmos desde\n\n15 matches across 5 files\n\n\nSearching 36 files for \"ALgumas vezes\" (regex)\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/COMOO7FICOULOUCO3437.tex:\n   47  acabassem; então, seguia\"-o de volta para casa da mesma maneira.\n   48  \n   49: Tineboy gostava muito do Sr.~Gralha e algumas vezes costumava fazê\"-lo\n   50  entrar em sua sala durante as aulas. Mas o pássaro era muito sábio e não\n   51  entrava.\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OCONSTRUTORDESOMBRAS3436.tex:\n   57  derretem-se novamente em trevas misteriosas.\n   58  \n   59: Algumas vezes, o Construtor de Sombras atravessa as paredes vaporosas de\n   60: sua morada e mistura-se nas fileiras da Procissão. E algumas vezes uma\n   61  forma invocada pelo gesto de sua mão espectral, com um passo silencioso,\n   62  achega-se saindo da névoa e para ao seu lado.\n   63  \n   64  \n   65: Algumas vezes,\n   66  o Construtor de Sombras invoca num corpo adormecido uma alma que sonha;\n   67  então, por certo tempo, o vivo e o morto ficam face a face, e os homens\n   ..\n   89  em torno de sua morada solitária.\n   90  \n   91: Algumas vezes ele se senta e medita com os olhos fixos e fitos, nada\n   92  vendo; e então, lá no mar, há uma calmaria desnublada ou a treva negra\n   93  da noite. Em direção ao distante Norte ou Sul, durante longos meses, ele\n   ..\n   98  \\imagemmedia{}{./img/09.png}\n   99  \n  100: Algumas vezes, com um franzido em seu rosto e um olhar duro, que raia e\n  101  lampeja relâmpagos negros, o Construtor de Sombras impele-se resoluto à\n  102  sua tarefa, e por todo o mundo as sombras marcham densas e rápidas.\n  ...\n  130  envolvem, ele trabalha dura e constantemente em sua tarefa solitária.\n  131  \n  132: Mas, algumas vezes, também o Construtor de Sombras tem suas alegrias.\n  133  Sombras bebês surgem, e imagens ensolaradas, iluminadas com doçura e\n  134  amor, escorregam sob seu toque, e se vão.\n  ...\n  146  \n  147  Em sua tarefa, o Construtor de Sombras faz invocações; e do nada\n  148: impalpável do Limiar provém o objeto de seu desejo. Algumas vezes, a\n  149  sombra irrompe cheia e fresca, e subitamente se perde nas trevas do\n  150  Portal do Horror; outras vezes, ela cresce suave e imperceptivelmente,\n  ...\n  229  Na longa pausa que se segue, enquanto o Construtor de Sombras observa,\n  230  tudo parece mudado. Do Limiar vem uma névoa, tal qual a que se suspende\n  231: algumas vezes sobre a superfície de um mar tropical.\n  232  \n  233  Aos poucos a névoa se afasta, e a proa de um portentoso navio, negra e\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OGIGANTEINVISIVEL3435.tex:\n   87  sentava e trabalhava, observando as flores que queria.\n   88  \n   89: Algumas vezes ela ficava muito triste, e suas lágrimas caíam espessas e\n   90  rápidas quando pensava em sua pobre mãe falecida. Ela parecia amiúde\n   91  sentir que sua mãe a estava observando a fim de olhar seu sorriso tenro\n   ..\n   94  cantos para escutá\"-la.\n   95  \n   96: Ela e os pássaros se tornaram grandes amigos, e algumas vezes, quando\n   97  ela cantava uma música, eles todos entoavam juntos, enquanto se sentavam\n   98  em volta dela em círculo, algumas notas que pareciam claramente dizer:\n   ..\n  481  Havia um pássaro velho que sempre se demorava mais, e frequentemente\n  482  dava muito mais ciscadas no pão quando este era bom para que conseguisse\n  483: uma refeição substanciosa. Algumas vezes ele continuava a se alimentar\n  484  até que Zaya balançasse o dedo a ele e dissesse:\n  485  \n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OPRINCIPEDAROSA3434.tex:\n   35  dormiam, ele ia para o bosque perto do palácio e pensava e pensava sobre\n   36  tudo o que era belo e verdadeiro, enquanto seu fiel cão Gomus se\n   37: agachava a seus pés e, algumas vezes, balançava a cauda, como se para\n   38  dizer:\n   39  \n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/SOBOPORDOSOL3433.tex:\n    7  glória e da beleza que o cerca.\n    8  \n    9: Algumas vezes, é\"-nos concedido vê\"-lo em sonhos.\n   10  \n   11  De vez em quando vêm Anjos ternamente, abanando com suas grandes asas\n   ..\n  165  \n  166  Ela não ficava em pé como os outros Anjos, mas flutuava para cima e para\n  167: baixo e por todo lado. Algumas vezes era somente uma pequena mancha, e,\n  168  então, repentinamente, sem parecer haver qualquer mudança, tornava\"-se\n  169  maior do que os grandes Espíritos Guardiões que eram os mesmos desde\n\n15 matches across 5 files\n\n\nSearching 36 files for \"no silêncio frio\" (regex)\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OCONSTRUTORDESOMBRAS3436.tex:\n  293  penduram-se como lampiões.\n  294  \n  295: No silêncio frio da noite, o abandonado Garoto Marinheiro descansa --\n  296  dorme e sonha. Tem sonhos com o lar -- com braços amorosos e abertos\n  297  para encontrá-lo -- com a farta comida de festins -- com campos verdes e\n\n1 match in 1 file\n\n\nSearching 36 files for \"o solitário con\" (regex)\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OCONSTRUTORDESOMBRAS3436.tex:\n    1  \\chapter{O Construtor de Sombras}\n    2  \n    3: O solitário Construtor de Sombras está sempre observando em sua morada\n    4  solitária.\n    5  \n    .\n   73  -- pode entrar na obscuridade por onde se move a Procissão.\n   74  \n   75: Assim vive o solitário Construtor de Sombras entre suas trevas, e sua\n   76  habitação é povoada por um passado espectral.\n   77  \n   ..\n  152  \n  153  \\smallskip\n  154: O solitário Construtor de Sombras está trabalhando em sua morada\n  155  solitária; à sua volta, além das paredes vaporosas, impelindo-se para\n  156  diante como sempre, está a Procissão do Passado Morto movendo-se em\n  ...\n  560  Horror -- para a vida -- e a liberdade -- e o amor.\n  561  \n  562: O solitário Construtor de Sombras sabe agora que os braços da Mãe são\n  563  mais fortes que o abraço da Morte.\n  564  \n\n4 matches in 1 file\n\n\nSearching 36 files for \"quando o sr.\" (regex)\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/COMOO7FICOULOUCO3437.tex:\n   41  sofreria.\n   42  \n   43: Quando o Sr.~Gralha acabava de se trocar, ele subia e tentava acordar\n   44  seu dono e fazê\"-lo se levantar; mas, das duas, acordá\"-lo era a tarefa\n   45  mais fácil. Quando o garoto ia para a escola, o pássaro voava na rua\n\n1 match in 1 file\n\n\nSearching 36 files for \"de repente, tineboy\" (regex)\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/COMOO7FICOULOUCO3437.tex:\n  754  seiscentos e doze mil e um''.\n  755  \n  756: De repente, Tineboy acordou e viu que estivera sonhando com sua cabeça\n  757  abaixada.\n  758  \\ \\\n\n1 match in 1 file\n\n\nSearching 36 files for \"as crianças\"\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/ACRIANCAMARAVILHOSA3440.tex:\n   39  \n   40  Sibold adorava achar coisas e fazer explorações; e em tempos diferentes\n   41: as duas crianças estiveram por todo os domínios de seu pai.\n   42  \n   43  Eles tinham certos abrigos secretos dos quais ninguém sabia exceto eles\n   ..\n  120  e saíram para passar o dia juntos passeando entre os bosques, pois era\n  121  uma festa para eles. Um pequenino irmão Garotinho havia chegado na casa\n  122: e todos estavam ocupados arrumando coisas para ele. As crianças\n  123  haviam\"-no visto somente um instante.\n  124  \n  ...\n  178  suas costas, comendo nozes tão ávidos quanto podiam.\n  179  \n  180: Quando os esquilos os viram, não tiveram medo, pois as crianças nunca\n  181  haviam feito mal algum a eles. Eles emitiram todos juntos um tipo de\n  182  grasnido estranho e um pequeno pulo engraçado. Sibold e May começaram a\n  ...\n  200  segurou abertos os galhos folhados quando ele chegou; quando passou, ela\n  201  os deixou cair novamente. Quando a cortina de folhas estava pendurada\n  202: toda em volta deles, as duas crianças ficaram sozinhas no Desvão do\n  203  Salgueiro.\n  204  \n  ...\n  211  flores.\n  212  \n  213: Então as crianças sentaram\"-se para comer. Os dois estavam muito cansados\n  214  e com muita fome, e apreciaram muito o descanso e a comida. Havia\n  215  somente uma coisa que eles queriam, e essa coisa era o novo Irmãozinho\n  ...\n  262  \n  263  O sol brilhava muito vivamente. A água estava tão azul quanto o céu e\n  264: tão límpida que as crianças podiam ver lá nas profundezas, onde os\n  265  peixes estavam se movendo rápidos. Ali, também, as plantas e as árvores\n  266  que crescem sob a água estavam abrindo e fechando seus galhos; e as\n  ...\n  271  vista do alto Salgueiro que era maior do que os outros. Então pareceu se\n  272  aproximar novamente à margem, e mudou de posição, sempre tão perto que\n  273: as crianças podiam ver muito claramente tudo o que lá havia.\n  274  \n  275  A margem era muito variada e cada momento mostrava algo novo e\n  ...\n  308  maiores que cabanas.\n  309  \n  310: As crianças gostaram de todos esses lugares, mas, de repente, chegaram a\n  311  um lugar em que havia um canteiro de grama esmeralda ensombrado por\n  312  árvores gigantescas. Em volta crescia ou pendia ou se agrupava cada uma\n  ...\n  318  Canas\"-de\"-Açúcar se erguiam.\n  319  \n  320: Quando eles viram esse lugar, ambas as crianças bradaram: ``Oh! Que\n  321  bonito! Vamos parar aqui''.\n  322  \n  ...\n  345  que \\emph{deve} haver Salsa''. Pois Sibold era muito lógico.\n  346  \n  347: Então as duas crianças caminharam por todo o vale gramado, procurando.\n  348  Logo depois, decerto, sob as folhas espalhadas de uma Cidra, eles\n  349  encontraram um grande canteiro de Salsa -- as maiores Salsas que eles já\n  ...\n  388  \n  389  De repente eles ouviram um gemido baixo -- um tipo de som como se uma\n  390: música tivesse dor de dente. Ambas as crianças olharam para baixo\n  391  alarmadas e viram que o pobre Bebê estava morto.\n  392  \n  ...\n  633  e um assovio como se alguma coisa gigante estivesse chicoteando a água.\n  634  \n  635: Olhando em torno, as crianças viram dois monstros se aproximando. Eram\n  636  um Tubarão e um Crocodilo. Eles surgiram do mar e vieram para a terra. O~Tubarão estava pulando, batendo com sua cauda e rangendo sua tripla\n  637  fileira de grandes dentes. O~Crocodilo estava rastejando com seus\n  ...\n  800  música.\n  801  \n  802: ``Sabei, queridas crianças, e sabei vós todos que escutais -- haverá paz\n  803  na terra entre todas as coisas vivas quando os filhos dos homens\n  804  ficarem, por uma hora, em perfeito amor e perfeita harmonia um com o\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/COMOO7FICOULOUCO3437.tex:\n   11  brilham como estrelas que caíram e jazem esparramadas pelo gramado.\n   12  \n   13: Muitas crianças viveram e se tornaram homens e mulheres no velho\n   14  palácio, e eles tiveram muitos animais de estimação. Entre seus animais\n   15  havia muitos pássaros -- pois os pássaros, entre todas as espécies, amam\n   ..\n  117  não?''\n  118  \n  119: Nenhuma das crianças pôde dizer que não. Ouviu\"-se Tineboy, sozinho,\n  120  murmurar para si mesmo: ``\\emph{Eu não acredito}''\\emph{.}\n  121  \n  ...\n  417  \\emph{Bem, crianças, depois de um tempo o pobre 7 melhorou e prometeu\n  418  que ele ficaria deslouco. Antes de o Médico ir novamente para casa,\n  419: todas as Crianças Alfabeto e Número vieram e apertaram a mão do pobre\n  420  Número 7, e prometeram que eles seriam mais bonzinhos com ele no\n  421  futuro.}\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/INTRODUCAO3935.tex:\n  254  livro, ``A Criança Maravilhosa''. Numa atmosfera diametralmente oposta à\n  255  de ``O Castelo do Rei'', a história narra a descoberta de um bebê por\n  256: duas crianças, os irmãos Sibold e May, que se aventuram em um mundo\n  257  paralelo ao transpassar a fenda de um salgueiro, árvore miticamente\n  258  associada à pureza e à imaginação. O~bebê que encontram nessa outra\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/MENTIRASELIRIOS3438.tex:\n   23  memória do mentiroso, mesmo quando ela não estivesse presente.\n   24  \n   25: Todo dia ela falava a todas as crianças sobre a beleza da Verdade e como\n   26  uma mentira era uma coisa muito obscura e terrível. Ela também lhes\n   27  contava histórias do Belo Livro; uma que ela amava, e que eles amavam\n   ..\n   29  daqui.\n   30  \n   31: As crianças nunca se cansavam de ouvir sobre aquela Cidade, límpida como\n   32  cristal de jaspe, com seus doze portões com nomes escritos neles; e\n   33  faziam perguntas à Professora sobre o Anjo que mediu a Cidade com um\n   34  junco dourado. Sempre perto do fim da história, a voz da Professora se\n   35: tornava muito séria, e um silêncio se entranhava nas crianças, e elas\n   36  ficavam mais juntas umas das outras, espantadas, quando ela lhes contava\n   37  que fora daquela bela cidade era condenado a ficar de pé para sempre\n   ..\n   56  Claribel não temia mal algum, ela era facilmente levada ao pecado.\n   57  \n   58: As crianças estavam todas com seus problemas de matemática. Algumas\n   59  delas sabiam a aritmética, conseguiam suas respostas e provavam\"-nas; mas\n   60  algumas não conseguiam a resposta certa, e outras empacavam e não\n   61: conseguiam resposta alguma. Algumas crianças levadas nem mesmo tentavam\n   62  chegar nas respostas, mas faziam desenhos em suas lousas e escreviam\n   63  seus nomes. Claribel tentou resolver seus problemas, mas ela não\n   ..\n   66  desistiu do problema, e fez começos de desenhos e desistiu deles também.\n   67  Ela olhou para a janela pensando em algo para desenhar e viu nos vidros\n   68: de baixo flores coloridas pintadas para impedir que as crianças olhassem\n   69  para as pessoas lá fora durante as lições. Claribel olhou fixo para uma\n   70  dessas flores, um lírio, e começou a desenhá\"-lo.\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OCASTELODOREI3439.tex:\n   39  \n   40  Sibold adorava achar coisas e fazer explorações; e, em épocas\n   41: diferentes, as duas crianças rondaram por todos os domínios de seu pai.\n   42  \n   43  Eles tinham certos abrigos secretos dos quais ninguém sabia exceto eles\n   ..\n  120  saíram para passar o dia juntos passeando entre os bosques, pois era uma\n  121  festa para eles. Um pequenino irmão Garotinho havia chegado na casa, e\n  122: todos estavam ocupados arrumando coisas para ele. As crianças haviam\"-no\n  123  visto somente por um instante.\n  124  \n  ...\n  178  costas, comendo nozes tão ávidos quanto podiam.\n  179  \n  180: Quando os esquilos os viram, não tiveram medo, pois as crianças nunca\n  181  haviam feito mal algum a eles. Eles deram todos juntos um tipo de\n  182  grasnada estranho e um pulinho engraçado. Sibold e May começaram a rir,\n  ...\n  200  caramanchão. May segurou abertos os galhos folhados quando ele chegou;\n  201  quando ele passou, ela os deixou cair novamente. Quando a cortina de\n  202: folhas estava pendurada toda em volta deles, as duas crianças ficaram\n  203  sozinhas no Caramanchão do Salgueiro.\n  204  \n  ...\n  211  flores.\n  212  \n  213: Então as crianças se sentaram para comer. Os dois estavam muito cansados\n  214  e com muita fome, e apreciaram muito o descanso e a comida. Havia\n  215  somente uma coisa que eles queriam, e essa coisa era o novo Irmãozinho\n  ...\n  262  \n  263  O sol luzia muito brilhante. A água estava tão azul quanto o céu e tão\n  264: límpida que as crianças podiam ver lá nas profundezas, onde os peixes\n  265  estavam se movendo rápidos. Ali, também, as plantas e as árvores que\n  266  crescem sob a água estavam abrindo e fechando seus galhos; e as folhas\n  ...\n  271  do alto Salgueiro que era maior do que os outros. Então ele pareceu se\n  272  aproximar novamente à margem, e mudou de posição, sempre tão perto que\n  273: as crianças podiam ver muito claramente tudo o que lá havia.\n  274  \n  275  A margem era muito variada; e cada momento mostrava algo novo e\n  ...\n  308  maiores que cabanas.\n  309  \n  310: As crianças gostaram de todos esses lugares, mas, de repente, chegaram a\n  311  um lugar em que havia um canteiro de grama esmeralda ensombrado por\n  312  árvores gigantescas. Em volta, crescia ou pendia ou se agrupava cada uma\n  ...\n  318  as Canas\"-de\"-Açúcar se erguiam.\n  319  \n  320: Quando eles viram esse lugar, ambas as crianças bradaram: ``Oh! Que\n  321  bonito! Vamos parar aqui''.\n  322  \n  ...\n  345  certeza \\emph{deve} haver Salsa''. Pois Sibold era muito lógico.\n  346  \n  347: Então, as duas crianças caminharam por todo o vale gramado, procurando;\n  348  e, logo depois, como previsto, eles encontraram sob as folhas espalhadas\n  349  de uma Cidra um grande canteiro de Salsa -- as maiores Salsas que eles\n  ...\n  388  \n  389  De repente eles ouviram um gemido baixo -- um tipo de som como se uma\n  390: música tivesse dor de dente. Ambas as crianças olharam para baixo\n  391  alarmadas, e viram que o pobre Bebê estava morto.\n  392  \n  ...\n  633  chicoteando a água.\n  634  \n  635: Olhando em torno, as crianças viram dois monstros se aproximando. Eram\n  636  um Tubarão e um Crocodilo. Eles surgiram do mar e vieram para a terra. O~Tubarão estava pulando, batendo com sua cauda e rangendo sua tripla\n  637  fileira de grandes dentes. O~Crocodilo estava rastejando com seus\n  ...\n  800  música.\n  801  \n  802: ``Sabei, queridas crianças, e sabei vós todos que escutais -- haverá paz\n  803  na terra entre todas as coisas vivas quando os filhos dos homens\n  804  ficarem, por uma hora, em perfeito amor e em perfeita harmonia um com o\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OGIGANTEINVISIVEL3435.tex:\n  494  Cada passarinho que bebia da xícara de Zaya e gostava levantava sua\n  495  cabeça para fazer as graças; e desde então os passarinhos fazem a mesma\n  496: coisa, e nunca se esquecem de fazer as graças -- como algumas crianças\n  497  mal\"-agradecidas o fazem.\n  498  \n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OPRINCIPEDAROSA3434.tex:\n  107  \n  108  O Rei Mago mandou fazer dois pequenos tronos; e quando ele se sentou\n  109: cerimoniosamente em seu grande trono, as duas crianças sentaram\"-se de\n  110  cada lado dele, e aprenderam como ser Rei e Rainha.\n  111  \n  ...\n  287  ela. Então, ao crepúsculo no topo da torre, com muitos milhares de\n  288  corações ávidos e ansiosos na cidade abaixo deles, e com o belo céu\n  289: acima, as duas crianças se ajoelharam e rezaram pelo sucesso do exército\n  290  pela manhã.\n  291  \n\n39 matches across 7 files\n\n\nSearching 36 files for \"as crianças estavam\"\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/MENTIRASELIRIOS3438.tex:\n   56  Claribel não temia mal algum, ela era facilmente levada ao pecado.\n   57  \n   58: As crianças estavam todas com seus problemas de matemática. Algumas\n   59  delas sabiam a aritmética, conseguiam suas respostas e provavam\"-nas; mas\n   60  algumas não conseguiam a resposta certa, e outras empacavam e não\n\n1 match in 1 file\n\n\nSearching 36 files for \"Oh, não\"\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/MENTIRASELIRIOS3438.tex:\n  142  ``Claribel, ficai no lado de fora; vós contais e amais uma mentira''.\n  143  \n  144: ``Oh, não'', disse Claribel, ``Não a amo''.\n  145  \n  146  ``Então por que não confessais vosso erro?''\n\n1 match in 1 file\n\n\nSearching 36 files for \"enquanto falavam, ele\"\n\n0 matches\n\nSearching 36 files for \"enquanto falavam\"\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/ACRIANCAMARAVILHOSA3440.tex:\n  535  ``Muito'', disse Sibold.\n  536  \n  537: Enquanto falavam, veio um som terrível de entre as árvores, muito muito\n  538  longe a princípio, mas que se aproximava mais e mais a cada momento. Era\n  539  como gatos que estavam tentando imitar o trovão. O~barulho veio\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OCASTELODOREI3439.tex:\n  535  ``Muito'', disse Sibold.\n  536  \n  537: Enquanto falavam, veio um som terrível de entre as árvores, muito, muito\n  538  longe a princípio, mas que se aproximava mais e mais a cada momento. Era\n  539  como gatos que estavam tentando imitar o trovão. O~barulho veio\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/SOBOPORDOSOL3433.tex:\n  236  seus caminhos''.\n  237  \n  238: Enquanto falavam, os Anjos choraram de dor pelos pecados do povo e pela\n  239  dor que devem suportar.\n  240  \n\n3 matches across 3 files\n\n\nSearching 36 files for \"16.png\"\n\n0 matches\n\nSearching 36 files for \"Enquanto falavam, \"\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/ACRIANCAMARAVILHOSA3440.tex:\n  535  ``Muito'', disse Sibold.\n  536  \n  537: Enquanto falavam, veio um som terrível de entre as árvores, muito muito\n  538  longe a princípio, mas que se aproximava mais e mais a cada momento. Era\n  539  como gatos que estavam tentando imitar o trovão. O~barulho veio\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OCASTELODOREI3439.tex:\n  100  haviam chegado.\n  101  \n  102: Enquanto falavam, ele levantou sua pobre cabeça e os fitou; e eles viram\n  103  nos olhos grandes, escuros e tenros que agora ele estava um tanto\n  104  perturbado. Sorriu triste para eles, como se não estivesse entendendo\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/SOBOPORDOSOL3433.tex:\n  236  seus caminhos''.\n  237  \n  238: Enquanto falavam, os Anjos choraram de dor pelos pecados do povo e pela\n  239  dor que devem suportar.\n  240  \n\n3 matches across 3 files\n\n\nSearching 36 files for \"Reino dentro do \"\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OCASTELODOREI3439.tex:\n  704  Eternas.\n  705  \n  706: No Reino dentro do Portal nasceu o sol do dia vindouro. Brilhou calmo e\n  707  vivamente num belo jardim, onde, em meio à grama alta do verão, jazia o\n  708  Poeta, mais frio do que as estátuas de mármore à sua volta.\n\n1 match in 1 file\n\n\nSearching 36 files for \"Havia também grandes\"\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/ACRIANCAMARAVILHOSA3440.tex:\n  105  parente, o Sol.\n  106  \n  107: Havia também grandes Papoulas, com folhas espraiadas e descuidadas,\n  108  caules grossos e suculentos, e grandes flores escarlates, que se erguiam\n  109  e pendiam como bem quisessem, e que pareciam muito livres e descuidadas\n  ...\n  298  pendiam de seus galhos verdes retorcidos.\n  299  \n  300: Havia também grandes Palmeiras, com suas folhas amplas, fazendo uma\n  301  sombra fresca na terra abaixo. Grandes Coqueiros, em cujos troncos\n  302  tropas de macacos ficavam correndo para reunir cocos que eles arrancavam\n\n2 matches in 1 file\n\n\nSearching 36 files for \"May\"\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/ACRIANCAMARAVILHOSA3440.tex:\n   29  se assim escolhessem e tomar assento na mesa, sendo hóspedes bem\"-vindos.\n   30  \n   31: Esse Senhor da Mansão tinha três filhos, Sibold e May, e um Garotinho\n   32  havia acabado de chegar em casa, ainda sem ter um nome.\n   33  \n   34: Sibold havia acabado de alcançar seu décimo oitavo aniversário e May\n   35  estava a dois meses de seu sexto. Eles gostavam muito um do outro --\n   36  como irmãos e irmãs devem gostar -- e faziam todas as brincadeiras\n   37: juntos. May pensava que Sibold era muito grande e forte, e qualquer\n   38  coisa que ele desejasse fazer ela sempre concordava.\n   39  \n   ..\n   87  vinha pelo meio das folhas suave e docemente.\n   88  \n   89: Sibold e May pensavam que assim o mar devia parecer às Sereias, que\n   90  cantam e penteiam seus longos cabelos com pentes dourados nas\n   91  profundezas frias do oceano.\n   ..\n  113  \n  114  \n  115: Tanto Sibold quanto May amavam essas Papoulas e iam todos os dias\n  116  olhá\"-las. Nos canteiros, na relva musgosa, da qual se erguia o grande\n  117  Salgueiro, elas cresciam a tamanhos enormes; tão altas que, quando\n  118: Sibold e May ficavam de mãos dadas junto ao canteiro, as grandes\n  119  Papoulas elevavam\"-se sobre eles, até que Sibold, ficando na ponta dos\n  120  pés, não pudesse alcançar as flores escarlates.\n  121  \n  122: Um dia, depois do café da manhã, Sibold e May levaram consigo sua comida\n  123  e saíram para passar o dia juntos passeando entre os bosques, pois era\n  124  uma festa para eles. Um pequenino irmão Garotinho havia chegado na casa\n  ...\n  126  haviam\"-no visto somente um instante.\n  127  \n  128: De mãos dadas, Sibold e May percorreram todos os seus lugares favoritos.\n  129  Eles olharam a caverna no Carvalho e diziam ``Como vai o senhor?'' a\n  130  todo esquilo que vivia na árvore, e contaram\"-lhes sobre o novo Bebê que\n  ...\n  152  \n  153  Em um canteiro encontraram uma nova flor que aparecera. Sibold\n  154: conhecia\"-a e contou a May que era um Lírio Asiático; ela teve medo de se\n  155  aproximar dele até que ele contou a ela que a flor não a machucaria,\n  156  pois era somente uma flor.\n  ...\n  158  À medida que caminhavam, Sibold colhia algumas flores de cada canteiro e\n  159  dava\"-as à sua irmã; quando eles estavam se afastando do Lírio Asiático,\n  160: ele puxou a flor, e, porque May tinha medo de carregá\"-la, ele mesmo a\n  161  levou.\n  162  \n  163  Por fim, eles chegaram ao grande canteiro das Papoulas. As flores\n  164  pareciam tão brilhantes e frescas, devido a toda a sua cor, e tão\n  165: descuidadas, que May e Sibold pensaram, ambos ao mesmo tempo, que elas\n  166  gostariam de tomar parte com eles no Desvão do Salgueiro, pois eles\n  167  estavam indo comer lá e desejaram que o lugar estivesse tão feliz e belo\n  ...\n  173  pessoa, eles colocariam a coroa onde eles a pudessem ver bem.\n  174  \n  175: Quando chegaram ao Carvalho, May exclamou:\n  176  \n  177  ``Oh, olhe, Sibold, olhe, olhe!''\n  ...\n  183  Quando os esquilos os viram, não tiveram medo, pois as crianças nunca\n  184  haviam feito mal algum a eles. Eles emitiram todos juntos um tipo de\n  185: grasnido estranho e um pequeno pulo engraçado. Sibold e May começaram a\n  186  rir, mas eles não gostaram da perturbação e voltaram ao canteiro de\n  187  Papoulas.\n  188  \n  189: ``Agora, Sibold, querido'', disse May, ``precisamos pegar muitas\n  190  Papoulas, pois o querido Be gosta muito delas''.\n  191  \n  ...\n  200  do Salgueiro para comer. Sibold foi à fonte que nascia no jardim e que\n  201  corria ao mar. Ali ele encheu seu gorro com água e trouxe\"-o tão firme\n  202: quanto pôde para que não derramasse muito e voltou ao desvão. May\n  203  segurou abertos os galhos folhados quando ele chegou; quando passou, ela\n  204  os deixou cair novamente. Quando a cortina de folhas estava pendurada\n  ...\n  210  coroa de flores que eles colocaram em volta do tronco da árvore. Em toda\n  211  parte, eles colocaram as Papoulas no lugar mais alto que alcançavam, e\n  212: então Sibold segurou May no alto enquanto ela enfiava os Lírios\n  213  Asiáticos em uma fissura no tronco de árvore em cima de todas as outras\n  214  flores.\n  ...\n  232  ``Venha ao riacho'', disse Sibold, ``e saiamos em meu barco''.\n  233  \n  234: May levantou\"-se, e eles abriram a porta de folhas e saíram. Desceram ao\n  235  riacho e lá encontraram o barco de Sibold com todas as suas velas\n  236  armadas.\n  ...\n  238  ``Vamos entrar'', disse Sibold.\n  239  \n  240: ``Por quê?'', perguntou May.\n  241  \n  242  ``Porque assim podemos velejar'', ele respondeu.\n  243  \n  244: ``Mas ele não vai nos aguentar; é pequeno demais'', disse May, que\n  245  estava com um tanto de medo de velejar, mas não queria dizê\"-lo.\n  246  \n  ...\n  253  ``Vamos, vamos entrar'', disse Sibold.\n  254  \n  255: De alguma forma May não sentia mais medo. Ela entrou no barco e\n  256  descobriu que ali havia almofadas de seda da cor das flores de Papoula.\n  257  Então Sibold entrou e afastou a corda que amarrava o barco à margem. Ele\n  258: sentou\"-se na popa e segurou o leme em sua mão; May sentou\"-se em uma\n  259  almofada no fundo do barco e segurou\"-se nas bordas.\n  260  \n  261  As velas brancas inflaram com uma brisa suave e eles começaram a se\n  262  afastar da margem; as pequenas ondas agitaram\"-se desde a proa do barco.\n  263: May ouvia o marulhar das ondas quando elas tocavam a proa, e então se\n  264  deitou.\n  265  \n  ...\n  327  virou\"-se e fluiu suavemente à margem.\n  328  \n  329: Sibold desceu e levantou May para a terra. Ele pretendia amarrar o\n  330: barco; mas, no instante que May saiu, todas as velas se dobraram por si\n  331  mesmas, a âncora pulou para fora do barco e, antes que fosse possível\n  332  fazer qualquer coisa, o barco estava ancorado perto da margem.\n  333  \n  334: Sibold e May deram\"-se as mãos e perambularam juntos pelo lugar, olhando\n  335  para tudo.\n  336  \n  337: Logo, May disse, em um sussurro:\n  338  \n  339  ``Oh, Sibold, este lugar é tão bom, será que há Salsa aqui?''\n  ...\n  354  \n  355  Sibold ficou bem satisfeito com isso, e disse: ``Isso se parece com\n  356: Salsa. Sabe, May, sempre fiquei intrigado com como um Bebê, que é muito\n  357  maior do que a Salsa, possa estar escondido nela; e ele deve estar\n  358  escondido nela, pois muitas vezes saio para olhar no canteiro de casa e\n  ...\n  361  que, se eu fosse tão sortudo quanto ela, ficaria sempre procurando''.\n  362  \n  363: May viu que o desejar encontrar um bebê tornou\"-se tão forte nela que\n  364  disse novamente:\n  365  \n  ...\n  370  muito leve -- como um sorriso causado por música.\n  371  \n  372: May ficou surpresa e, por um momento, não pensou em fazer coisa alguma;\n  373  ela meramente apontou, e disse:\n  374  \n  ...\n  379  fora visto.\n  380  \n  381: May ajoelhou\"-se ao lado dele, levantou\"-o, começou a balançá\"-lo e cantou\n  382  ``Nana nenê'', enquanto Sibold olhava complacente. Entretanto, depois de\n  383  uns instantes, ele ficou impaciente e disse:\n  ...\n  385  ``Veja bem, entende, eu encontrei esse Bebê; ele pertence a mim''.\n  386  \n  387: ``Oh, por favor'', disse May, ``eu o ouvi primeiro. Ele é meu''.\n  388  \n  389: ``Ele é meu'', disse Sibold. ``Ele é meu'', disse May; e ambos começaram\n  390  a ficar um pouco nervosos.\n  391  \n  ...\n  403  que vocês possam dizer `raquetes'\\,''.\n  404  \n  405: ``De fato, Be'', disse May, ``nunca, nunca ficarei brava de novo. Ao\n  406  menos, eu tentarei não ficar''.\n  407  \n  ...\n  412  \\emph{malfaisance} da raiva''.\n  413  \n  414: ``Como ele fala bonito'', disse May; e o Bebê acenou a ele com sua\n  415  cabeça de maneira familiar, como dizendo:\n  416  \n  ...\n  418  \n  419  Então, por um tempo, todos eles ficaram cada vez mais quietos. Logo, o\n  420: Bebê virou seus olhos azuis para May e disse:\n  421  \n  422  ``Por favor, pequena mãe, cantaria para mim?''\n  423  \n  424: ``O que gostaria, Be?'', perguntou May.\n  425  \n  426  ``Oh, qualquer coisinha, algo patético'', ele respondeu.\n  427  \n  428: ``Algum estilo em particular?'', perguntou May.\n  429  \n  430  ``Não, obrigado; qualquer coisa que venha a calhar. Prefiro algo simples\n  ...\n  435  diminuta''.\n  436  \n  437: ``Oh, por favor, Be'', disse May, muito humildemente, ``não sei ainda\n  438  nada sobre isso. Estou ainda nas escalas e, com sua licença, não sei do\n  439  que tudo isso se trata''.\n  ...\n  442  escreveu uma música na areia.\n  443  \n  444: ``Ainda não sei'', disse May.\n  445  \n  446  Bem naquele momento, um animal marrom\"-amarelado pequeno apareceu na\n  ...\n  456  amável'', e ele a beijou novamente.\n  457  \n  458: Então May cantou algo muito doce e belo -- tão doce e belo que a fez\n  459  chorar, e também Sibold, e o Bebê. Ela não conhecia as palavras e ela\n  460  não conhecia a melodia, e ela tinha somente uma noção bem vaga do que\n  ...\n  472  Naquele momento, uma bela Vaca colocou sua cabeça sobre os arbustos e\n  473  disse: ``Muu\"-uu\"-uu''. A~Bela Criança bateu suas palmas; assim também\n  474: May, que disse:\n  475  \n  476  ``Oh, eu sei agora. Ele quer ser alimentado''.\n  ...\n  478  A Vaca entrou ali sem ser convidada, e Sibold disse:\n  479  \n  480: ``Acho que sim, May, melhor eu tirar leite dela''.\n  481  \n  482: ``Por favor, sim, querido'', disse May. Ela começou a ninar novamente o\n  483  Bebê, a beijá\"-lo, a acalentá\"-lo, e a contar\"-lhe que logo iria ser\n  484  alimentado.\n  ...\n  486  Enquanto ela estava assim ocupada, sentava\"-se com suas costas a Sibold.\n  487  Mas o Bebê estava olhando para a ordenhação, com seus olhos azuis\n  488: dançando com alegria. Subitamente, ele começou a rir, rir tanto que May\n  489  olhou em volta para ver do que ele estava rindo. Ali estava Sibold\n  490  tentando ordenhar a Vaca puxando seu rabo.\n  ...\n  501  ``O querido Be não deve desejar nada''.\n  502  \n  503: May pensou que era muito estranho a Vaca poder falar; mas, como Sibold\n  504  não pareceu pensar isso ser estranho, segurou a língua.\n  505  \n  ...\n  511  \n  512  Sua risada era muito engraçada, a princípio muito alta, mas gradualmente\n  513: ficando mais e mais parecida com a risada da Criança, até que May não as\n  514  conseguia diferenciar. Então, a Vaca parou de rir, mas a Criança\n  515  continuou.\n  516  \n  517: ``Do que está rindo, Be?'', May perguntou, pois ela não lembrava se\n  518  sabia algo de ordenhação além do que Sibold sabia. Ela achou isso muito\n  519  engraçado, pois sabia que muitas vezes ela havia visto as vacas serem\n  ...\n  534  vida''.\n  535  \n  536: ``Esse é um Be muito querido e estranho!'', disse May, em sussurros.\n  537  \n  538  ``Muito'', disse Sibold.\n  ...\n  545  ``Meiau\"-u-room\"-r-p\"-sss. Rarkrrau\"-iau\"-p-ss''.\n  546  \n  547: May ficou muito assustada. Também Sibold ficou assustado, mas ele não\n  548  iria admitir; ele sentiu que tinha de proteger sua Irmãzinha e o Bebê,\n  549: então se pôs entre os dois e o lugar de onde vinha o som. May abraçou\n  550  apertado a Criança, e disse\"-lhe: ``Não tenha medo, querido Be. Nós não\n  551  vamos deixar ele tocar em você''.\n  ...\n  558  furiosamente para eles com seus grandes olhos verdes flamejantes.\n  559  \n  560: May olhou para essa coisa terrível com seus olhos arregalados de terror;\n  561  mas, ainda assim, ela abraçou o Bebê cada vez mais forte. Ficou olhando\n  562  para o Tigre e viu que ele estava mirando não ela nem Sibold, mas sim o\n  ...\n  592  carregado como nada que eles já ouviram antes.\n  593  \n  594: Novamente Sibold se prostrou entre o som e May, que, mais uma vez,\n  595  segurou o Bebê para protegê\"-lo do mal.\n  596  \n  ...\n  606  Serpente enormes chocalhos que se moviam continuamente. O~Tigre rugiu\n  607  como se a ponto de saltar; mas, de repente, a Serpente baixou sua cabeça\n  608: em submissão. Estava fitando a Criança Maravilhosa; e, olhando, May\n  609  também viu que o pequenino Bebê estava apontando, como se dando ordens à\n  610  Serpente, a seus pés. Então o Tigre, com um rosnado baixo e depois um\n  ...\n  629  vigiando e também de guarda.\n  630  \n  631: May e Sibold começaram a observar maravilhados o Belo Garoto, ante a\n  632  quem esses monstros faziam reverência; mas eles não conseguiam ver nada\n  633  de estranho.\n  ...\n  648  lá e para cá na água -- como sentinelas.\n  649  \n  650: Novamente May e Sibold olharam para a Bela Criança e espantaram\"-se.\n  651  \n  652  Mais uma vez houve um som terrível, mais horrível do que se havia\n  ...\n  662  incandescente e fontes de água fervorosa irrompiam de todo lado.\n  663  \n  664: Sibold e May ficaram mais temerosos do que nunca e May agarrou o querido\n  665  Bebê forte contra seu peito.\n  666  \n  ...\n  680  vigiar e ficar de guarda.\n  681  \n  682: Sibold e May ficaram mais impressionados do que nunca, e olharam para o\n  683: Bebê com ainda maior curiosidade. De repente, May disse a seu irmão:\n  684  \n  685  ``Sibold, quero cochichar a você algo''.\n  ...\n  693  ``Eu também acho, querida. O~que vamos fazer?''\n  694  \n  695: ``Não sei'', disse May, ``espero que ele não fique bravo de novo conosco\n  696  por o chamarmos de `Be'\\,''.\n  697  \n  698  ``Espero que não'', disse Sibold.\n  699  \n  700: May pensou por um momento e então seu rosto iluminou\"-se com um sorriso\n  701  contente quando ela disse:\n  702  \n  ...\n  720  olharam para a Criança Maravilhosa.\n  721  \n  722: May sussurrou novamente para Sibold:\n  723  \n  724  ``Acho que, se ele for um anjo, devemos ser muito respeitosos com ele''.\n  ...\n  734  ``Belos e doces eles parecem''.\n  735  \n  736: May disse novamente:\n  737  \n  738  ``Gostaria que eles sempre fossem assim, e nunca brigassem ou\n  ...\n  750  ``Por que você deveria me chamar de Senhor Be?''\n  751  \n  752: May não gostaria de dizer ``Porque você é um Anjo'' da forma como\n  753  gostaria de ter dito, então ela aproximou mais a Criança e sussurrou em\n  754  seu pequeno ouvido róseo:\n  ...\n  763  Anjos conhecerão teus pensamentos e escutarão tuas palavras''.\n  764  \n  765: May sentiu\"-se muito feliz. Olhou para Sibold, que se inclinou e\n  766  beijou\"-a, e chamou\"-a de ``doce irmãzinha''; e todos os animais, em\n  767  pares, e todos aqueles terríveis que estavam de guarda, todos disseram\n  ...\n  775  grunhiram, e bateram as asas e sacudiram suas caudas.\n  776  \n  777: ``Oh, que bonito!'', disse May novamente, ``olhe, querido Be!'' Ela\n  778  estava prestes a dizer Senhor quando a Criança levantou seu dedo, então\n  779  ela disse somente ``Be''.\n  ...\n  788  repetiram as mesmas maneiras de mostrar sua alegria como antes.\n  789  \n  790: May disse à Criança -- e de alguma forma sua voz pareceu muito, muito\n  791  alta, apesar de ela não ter intenção de sair assim, mas somente de\n  792  sussurrar:\n  ...\n  811  quietos.\n  812  \n  813: Então a Criança Maravilhosa pareceu flutuar dos braços de May e mover\"-se\n  814  em direção ao mar. Todas as coisas vivas instantaneamente se apressaram\n  815  para formar uma fila dupla entre a qual ela passou.\n  816  \n  817: May e Sibold seguiram\"-no de mãos dadas. Ela esperou por eles na borda do\n  818  mar e então beijou\"-os ambos.\n  819  \n  ...\n  822  fresca começou a soprar em direção de casa.\n  823  \n  824: A Criança Maravilhosa moveu\"-se para a proa e ali repousou. Sibold e May\n  825  subiram a bordo e tomaram seus lugares de antes; e depois de enviar\n  826  beijos com as mãos para todas as coisas vivas -- que estavam, nesse\n  ...\n  838  em direção ao Desvão do Salgueiro.\n  839  \n  840: Sibold e May seguiram\"-na.\n  841  \n  842  Ele entrou no Desvão; eles seguiram logo depois.\n  ...\n  848  \n  849  \n  850: Sibold e May ficaram sentados por um longo tempo, de mãos dadas,\n  851  pensando. Então, ambos se sentindo sonolentos, colocaram seus braços em\n  852  volta um do outro, e deitaram\"-se para descansar.\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/INTRODUCAO3935.tex:\n  254  livro, ``A Criança Maravilhosa''. Numa atmosfera diametralmente oposta à\n  255  de ``O Castelo do Rei'', a história narra a descoberta de um bebê por\n  256: duas crianças, os irmãos Sibold e May, que se aventuram em um mundo\n  257  paralelo ao transpassar a fenda de um salgueiro, árvore miticamente\n  258  associada à pureza e à imaginação. O~bebê que encontram nessa outra\n\n73 matches across 2 files\n\n\nSearching 36 files for \"May viu que o \"\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/ACRIANCAMARAVILHOSA3440.tex:\n  361  que, se eu fosse tão sortudo quanto ela, ficaria sempre procurando''.\n  362  \n  363: May viu que o desejar encontrar um bebê tornou\"-se tão forte nela que\n  364  disse novamente:\n  365  \n\n1 match in 1 file\n\n\nSearching 36 files for \"20.png\"\n\n0 matches\n\nSearching 36 files for \"O bebê falou\"\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/ACRIANCAMARAVILHOSA3440.tex:\n  523  ordenhadas em casa.\n  524  \n  525: O Bebê falou: ``Não é assim que se ordenha uma vaca''.\n  526  \n  527  \n\n1 match in 1 file\n\n\nSearching 36 files for \"O gigante\"\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/INTRODUCAO3935.tex:\n  134  \n  135  Os elementos do gótico propriamente dito começam a aparecer no terceiro\n  136: conto do livro, ``O Gigante Invisível''. No País sob o Pôr do Sol, com o\n  137  argumento de que o mal não tem capacidade de triunfar nesse mundo, as\n  138  pessoas relevam a boa conduta e a atenção à solidariedade. Em meio a\n  ...\n  141  mundo como castigo às atitudes perversas do povo. No entanto, ele é\n  142  visto somente pela menina, que tenta em vão avisar a todos de sua\n  143: aproximação funesta\\footnote{O Gigante simboliza as pragas bíblicas do\n  144  \\emph{Velho Testamento}. É~interessante notar o paralelo entre a\n  145  personagem de Zaya, neste conto, e a de Cassandra, na mitologia. Segundo\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OGIGANTEINVISIVEL3435.tex:\n    1: \\chapterspecial{O Gigante Invisível}{}{}\n    2   \n    3  \n    .\n   24  visto. Alguns deles diziam:\n   25  \n   26: ``Ora! O que há para temer? Mesmo se tivessem existido gigantes, eles já\n   27  não existem mais''.\n   28  \n   ..\n  141  sozinha, pobrezinha, que derramou lágrimas amargas. Estava pensando na\n  142  história que há muito tempo sua falecida mãe havia lhe contado de como o\n  143: Príncipe Zaphir havia matado o Gigante, e ela imaginou como era o\n  144  príncipe, e pensou o quanto alegres as pessoas devem ter sido quando\n  145  Zaphir e Bluebell eram rei e rainha. Então imaginou se havia crianças\n  ...\n  167  ela viu algumas pessoas e gritou a elas:\n  168  \n  169: ``Olhem! Olhem! O Gigante, o Gigante!'', e apontou em direção à Forma\n  170  que ela ainda via se movendo lentamente na direção da cidade.\n  171  \n  ...\n  178  rua ainda gritando:\n  179  \n  180: ``Olhem! Olhem! O Gigante, o Gigante!'' Mas ninguém lhe prestou atenção\n  181  e todos disseram: ``Essa criança está louca'', e continuavam em seus\n  182  caminhos.\n  ...\n  191  campo fora dela, pois ainda via a grande Forma no ar diante de si.\n  192  \n  193: À medida que avançava, e aproximava\"-se mais e mais do Gigante, ele se\n  194  tornava um pouco mais escuro. Ela podia apenas enxergar as nuvens, mas a\n  195  forma de um Gigante pendendo vagamente no ar ainda era visível.\n  196  \n  197: Uma névoa fria rodeou\"-a quando o Gigante pareceu vir em sua direção.\n  198  Então, pensou em todas as pessoas pobres na cidade, e teve esperança de\n  199: que o Gigante as poupasse; ajoelhou\"-se diante dele, ergueu suas mãos em\n  200  súplica e gritou:\n  201  \n  202  ``Oh, grande Gigante! Poupe\"-as, poupe\"-as!''\n  203  \n  204: Mas o Gigante seguia em frente como se não a tivesse escutado. Ela\n  205  gritou ainda mais alto:\n  206  \n  207  ``Oh, grande Gigante! Poupe\"-as, poupe\"-as!'' E curvou sua cabeça e\n  208: chorou; o Gigante, apesar de bem lentamente, ainda continuava a avançar\n  209  para a cidade.\n  210  \n  ...\n  228  deve sofrer, que seja eu. Leve\"-me. Estou disposta a morrer, mas\n  229  poupe\"-as. Poupe\"-as, grande Gigante; e faça comigo o que bem entender''.\n  230: Mas o Gigante não prestou atenção.\n  231  \n  232  E Knoal -- pois era ele o velho -- sentiu seus olhos se encherem de\n  ...\n  243  ainda, ele não conseguia ver nada.\n  244  \n  245: A névoa fria passou, e quando Zaya olhou para cima, viu que o Gigante\n  246  havia passado e que estava se movendo em direção a cidade.\n  247  \n  ...\n  262  nas paredes. O~velho observou\"-a em silêncio e depois disse:\n  263  \n  264: ``Minha filha, você viu a aparência do Gigante quando ele passou?''\n  265  \n  266  Ela respondeu: ``Sim''.\n  ...\n  274  impiedoso, porém sem malícia; e de como os olhos eram cegos.\n  275  \n  276: O velho arrepiou\"-se enquanto ouvia, pois sabia que o Gigante era muito\n  277  terrível; e seu coração chorou pela cidade amaldiçoada onde tantos\n  278  pereceriam em meio a seus pecados.\n  ...\n  281  atraso, o velho e a menina correram para a cidade.\n  282  \n  283: Quando deixaram a casinha, Zaya viu o Gigante atrás deles, movendo\"-se\n  284  ainda em direção a cidade. Eles se apressaram; e quando passaram através\n  285: da névoa fria, Zaya olhou para trás e viu o Gigante atrás deles.\n  286  \n  287  Rapidamente, chegaram a cidade.\n  ...\n  295  sempre lento, pendendo uma sombra escura no ar do fim da tarde.\n  296  \n  297: Mas as pessoas na cidade nunca viam o Gigante. E~quando o velho e a\n  298  menina as alertavam, elas ainda assim não prestavam atenção, mas\n  299  zombavam deles e escarneciam deles, dizendo:\n  ...\n  312  fiquem alertas enquanto podem. A~mim mesmo, como a vocês, o céu está\n  313  limpo; e, no entanto, vejam que eu acredito. Pois, escutem\"-me: ignorando\n  314: completamente que outro Gigante invadiu nossa terra, sentei pensativo em\n  315  minha moradia. E, sem causa ou motivo, veio ao meu coração um medo\n  316  repentino pela segurança de nossa cidade. Eu me levantei, olhei ao norte\n  ...\n  321  reino, apesar de o século ter esmorecido meus olhos externos, ele aguçou\n  322  meus olhos internos -- os olhos de minha alma. Novamente eu saí e,\n  323: veja!, esta menina se ajoelhara e implorara ao Gigante, invisível para\n  324  mim, para poupar a cidade; mas ele não a escutou, ou, se escutou, não\n  325  respondeu e ela caiu de bruços no chão. Então viemos para cá para\n  ...\n  374  chorou amargamente e o coração de Knoal ficou muito triste. Depois de um\n  375  tempo, quando eles já tinham chegado à fonte, Zaya olhou para cima e\n  376: ressaltou\"-se, com alegre surpresa, pois não via mais o Gigante. Ela\n  377  bramou alegre e as pessoas riram, dizendo:\n  378  \n  ...\n  385  nos assustam''. Eles então se aproximaram dela com ameaças. Ela se\n  386  agarroua Knoal, que ficou terrivelmente sério quando ela disse que não\n  387: via mais o Gigante, e que estava agora como se em um sonho, pensativo.\n  388  Mas, ao seu toque, ele pareceu acordar; e falou severamente ao povo,\n  389  censurando\"-o. Mas eles também gritaram com ele e disseram que, como ele\n  ...\n  398  retorcendo\"-se um pouco em terror, e correu, gritando:\n  399  \n  400: ``O Gigante! O Gigante! Ele está mesmo entre nós!''\n  401  \n  402  Eles temeram ainda mais por não poderem vê\"-lo.\n  ...\n  408  pousaram em volta da fonte, mudos e parados, e nenhum som se escutava,\n  409  exceto os gritos das pessoas ao longe. Então, suas lamentações soaram\n  410: cada vez mais altas, pois o Gigante -- a Praga -- estava entre e em\n  411  volta deles, e não havia escapatória, pois era tarde demais para fugir.\n  412  \n  ...\n  421  \n  422  Knoal e Zaya fizeram tudo o que puderam para ajudar o pobre povo, mas\n  423: era realmente difícil ajudá\"-los, pois o Gigante invisível estava entre\n  424  eles, errando para lá e para cá pela cidade, de modo que ninguém podia\n  425  dizer onde ele colocaria sua mão gélida a seguir.\n  ...\n  427  Algumas pessoas fugiram da cidade; mas não adiantava, pois, fossem do\n  428  jeito que fossem e nunca fugindo rápido o bastante, eles ainda ficavam\n  429: dentro do alcance do Gigante invisível. De vez em quando, ele\n  430  transformava seus corações mornos em gelo com seu sopro e seu toque, e\n  431  eles caíam mortos.\n  ...\n  439  necessidade.\n  440  \n  441: Eles pareceram ver a vinda do Gigante quando ninguém -- nem mesmo a\n  442  menina -- podia ver qualquer coisa, e conseguiram contá\"-la quando havia\n  443  perigo, como se conseguissem mesmo falar.\n  ...\n  466  \n  467  Eles ciscavam de seu pão e bebiam de sua xícara antes que ela os\n  468: tocasse; e quando havia perigo -- pois a mão fria do Gigante estava por\n  469  toda parte --, eles bradariam:\n  470  \n  ...\n  498  \n  499  Assim, Knoal e Zaya viveram, apesar de muitos à sua volta terem morrido,\n  500: e o Gigante ainda permaneceu na cidade. Tantas pessoas morreram que\n  501  começou a se imaginar se muitos sobraram, pois somente quando a cidade\n  502  começou a ficar rarefeita que o povo pensou no vasto número de pessoas\n  ...\n  531  até a fonte no meio da praça do mercado. E~ali, no degrau mais baixo,\n  532  ele sucumbiu, como se exausto. Zaya sentiu\"-o ficar frio como o gelo, e\n  533: soube que a mão fria do Gigante havia sido posta em cima dele.\n  534  \n  535  Então, sem saber o motivo, olhou para onde ela havia visto pela última\n  536: vez o Gigante, quando Knoal e ela haviam ficado ao lado da fonte. E,\n  537  veja!, quando ela olhou, segurando a mão de Knoal, viu a forma sombrosa\n  538  do terrível Gigante, que havia estado por muito tempo invisível, ficando\n  ...\n  541  Seu rosto estava sério como sempre, e seus olhos ainda estavam cegos.\n  542  \n  543: Zaya gritou ao Gigante, ainda segurando Knoal pelas mãos bem forte:\n  544  \n  545: ``Ele não, ele não! Ó, poderoso Gigante! Ele não! Ele não!'', e arqueou\n  546  a cabeça para baixo e chorou.\n  547  \n  548: Havia uma tal angústia em seu coração que aos olhos cegos do Gigante\n  549  sombroso vieram lágrimas que caíram como orvalho na testa do velho.\n  550  Knoal falou a Zaya:\n  ...\n  554  infelicidades. Sou a última vítima, e morro contente''.\n  555  \n  556: Então Zaya ajoelhou\"-se ao Gigante, e disse:\n  557  \n  558  ``Poupe\"-o! Oh! Poupe\"-o e me leve! Mas o poupe! Poupe\"-o!''\n  ...\n  568  espírito partiu.\n  569  \n  570: Zaya ajoelhou\"-se e rezou; e quando ela olhou para cima, viu o Gigante\n  571  sombroso se afastando.\n  572  \n  573: O Gigante virou\"-se quando passou, e Zaya viu que seus olhos cegos estavam\n  574  apontados em sua direção como se ele tentasse enxergar. Ele levantou os\n  575  grandes braços umbrosos, drapejou, extático, em sua mortalha de névoa,\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OPRINCIPEDAROSA3434.tex:\n  209  pântanos além da Terra\"-de\"-Ninguém e que está devastando o país. Mas não\n  210  tema, meu povo, pois hoje muitos soldados se apresentarão com suas\n  211: armas, e ao pôr do sol de amanhã o Gigante terá sucumbido,\n  212  acreditamos.''\n  213  \n  ...\n  216  \n  217  Naquela noite, um corpo de soldados selecionados saiu com corações\n  218: valentes para lutar contra o Gigante, e as pessoas os saudaram em seu\n  219  caminho.\n  220  \n  221  Por todo o dia seguinte e a noite seguinte, as pessoas, bem como o Rei,\n  222  estiveram muito ansiosas; e na segunda manhã eles esperaram notícias de\n  223: que o Gigante tivesse sido derrotado.\n  224  \n  225  Mas nenhuma notícia veio até o anoitecer; então, um homem cansado,\n  ...\n  249  \n  250  ``Ah! Nossos soldados eram muito poucos. Hoje à noite enviaremos um\n  251: exército, e talvez o Gigante sucumba''.\n  252  \n  253  Naquela noite, um exército aguerrido, com muitas máquinas de guerra, com\n  254: bandeiras voando e bandas tocando, partiu contra o Gigante.\n  255  \n  256  No comando do exército cavalgava Janisar, o capitão, com sua armadura de\n  ...\n  469  Príncipe.\n  470  \n  471: Quando Zaphir deixou a cidade, ele rumou sempre em direção ao Gigante\n  472  até o sol brilhar alto nos céus, tão brilhante que sua armadura dourada\n  473  reluzia como fogo. E~então ele andou sob a proteção das árvores, e não\n  ...\n  478  Ao longe o chão parecia tremer, e um surgiu estrondo surdo de rochas\n  479  sendo destruídas e de florestas sendo derrubadas. Esses eram os sons dos\n  480: passos do Gigante à medida que ele se aproximava da cidade. Mas o\n  481  Príncipe Zaphir, apesar de os sons serem terríveis, não tinha medo e\n  482  avançou bravamente. Então, começou a encontrar muitas coisas vivas, que\n  483  passavam por ele muito rapidamente -- pois elas eram as mais velozes de\n  484: suas espécies e, assim, haviam fugido do Gigante mais rápido do que as\n  485  demais.\n  486  \n  487  Elas vinham, em centenas e milhares, sua quantidade aumentando mais e\n  488: mais à medida que o tempo passava, e à medida que o Príncipe e o Gigante\n  489  se aproximavam.\n  490  \n  ...\n  493  ratos e gatos e camundongos, e galos e galinhas, e raposas e gansos e\n  494  perus, todos estavam misturados, grandes e pequenos, e todos estavam tão\n  495: atemorizados pelo Gigante que se esqueceram de ter medo uns dos outros.\n  496  Assim, fugiam juntos, gatos e ratos, lobos e carneiros, raposas e\n  497  gansos; os fracos não tinham medo, nem os mais fortes queriam fazer\n  ...\n  502  para ele passar. As coisas mais fracas, e aquelas mais atemorizadas, não\n  503  procediam à sua fuga, mas tentavam chegar o mais perto possível do\n  504: Príncipe; e muitas preferiam retornar, seguindo\"-o em direção ao Gigante,\n  505  a não ficar perto dele.\n  506  \n  ...\n  517  pensar na batalha vindoura, parte com esperança.\n  518  \n  519: O Gigante aproximava\"-se cada vez mais. Seus passos esmagavam as rochas,\n  520  e com sua poderosa clava ele varria as florestas de seu caminho.\n  521  \n  ...\n  527  Muito tolo da parte deles.\n  528  \n  529: Então, à medida que o Gigante se aproximou, o Príncipe Zaphir sentiu que\n  530  a hora da batalha havia chegado.\n  531  \n  ...\n  535  Quando ele ficou cara a cara com um inimigo mais poderoso do que\n  536  qualquer coisa que já tinha visto, Zaphir sentiu\"-se como nunca antes.\n  537: Não era que ele estava com medo do Gigante, pois ele se sentia com tanta\n  538  coragem que, para o bem de seu povo, poderia alegremente ter morrido da\n  539  forma mais dolorosa possível. Era que ele percebeu que coisa pequena ele\n  ...\n  565  Enquanto rezava, o Príncipe Zaphir revira toda sua vida passada, desde o\n  566  primeiro dia de que conseguia se lembrar até aquele mesmo momento, face\n  567: a face com o Gigante. Não havia um pensamento indigno que ele tivesse\n  568  tido, nem uma palavra rude que tivesse dito, nem um olhar colérico que\n  569  tivesse provocado dor em outra pessoa, que não voltou à sua mente.\n  ...\n  584  de seu povo querido. E~em seu coração ele ficou agradecido.\n  585  \n  586: O Gigante viu imediatamente o brilho da armadura áurea, e soube que\n  587  outro inimigo se aproximara dele.\n  588  \n  ...\n  592  selvagens, nas cavernas e nas cavidades das montanhas.\n  593  \n  594: O Gigante começou seu ataque com esse barulho a fim de que pudesse\n  595  atemorizar seus inimigos. Mas o coração valente do Príncipe não tremeu\n  596  de medo. Ele se tornou mais valente do que nunca quando ouviu o barulho;\n  597  sabia, pois, que havia mais necessidade de coragem, para que seu povo, e\n  598: até mesmo o Rei, seu pai, e Bluebell não caíssem sob o poder do Gigante.\n  599  \n  600: Enquanto entre as pedras e as florestas as pegadas do Gigante embatiam,\n  601  e enquanto subia em volta de seus pés o pó da desolação que ele causava,\n  602  o Príncipe Zaphir juntou do riacho alguns seixos arredondados.\n  ...\n  605  \n  606  Assim que levantou seu braço para rodopiar o estilingue em volta de sua\n  607: cabeça, o Gigante viu\"-o, riu e apontou desdenhoso em sua direção com\n  608: suas grandes mãos, que eram mais brutas do que as garras de tigres. A~risada que o Gigante trovejou era tão terrível -- tão rude e raivosa e\n  609  horrível que as coisas vivas que haviam levantado os tímidos olhos para\n  610  observar a luta enterraram novamente as cabeças na terra, e tremeram de\n  ...\n  615  \n  616  Em volta da cabeça do Príncipe Zaphir o estilingue circulou, e o seixo\n  617: sibilante voou. Acertou bem na têmpora do Gigante, e mesmo com a risada\n  618  de escárnio em seus lábios, e com sua mão estendida apontando com\n  619  menosprezo, ele caiu de bruços.\n  ...\n  626  sabiam o que ele significava.\n  627  \n  628: Quando o grande corpo do Gigante caiu de bruços, a terra tremeu por\n  629  muitas milhas ao redor devido ao choque. E~quando seu grande porrete\n  630  caiu de sua mão, derrubou muitas árvores altas da floresta.\n  ...\n  711  \n  712  ``Oh!, Rei, meu Pai, e oh!, Povo! -- Deus foi bom para conosco e Seu\n  713: braço deu\"-nos a vitória. Veja! O Gigante sucumbiu no orgulho de sua\n  714  força!''\n  715  \n  ...\n  721  de seu Herói.\n  722  \n  723: Naquele mesmo momento, lá longe na floresta, o Gigante jazia sucumbido\n  724  pelo orgulho de sua força -- a coisa mais vil de todo o mundo --, e\n  725  sobre seu cadáver corriam raposas e arminhos. As cobras rastejavam em\n  ...\n  729  Ao longe, agrupavam\"-se os abutres para sua presa.\n  730  \n  731: Perto do Gigante morto, brilhando na luz, jazia a armadura áurea. A~grande pluma branca desprendeu\"-se do capacete e até mesmo agora acenava\n  732  na brisa.\n  733  \n  734: Quando o povo veio ver o Gigante, descobriu que ervas daninhas já haviam\n  735  crescido onde seu sangue tinha sido derramado, mas também que, em volta\n  736  da armadura que o Príncipe havia despido, um anel de graciosas flores\n  ...\n  747  Então eles a penduraram na Catedral entre as grandes bandeiras antigas e\n  748  os capacetes de cavaleiros de outrora como um memorial da vitória sobre\n  749: o Gigante.\n  750  \n  751  O Príncipe Zaphir tirou do capacete a pena que o Rei, seu pai, havia\n\n69 matches across 3 files\n\n\nSearching 36 files for \"O gigante!\"\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OGIGANTEINVISIVEL3435.tex:\n  167  ela viu algumas pessoas e gritou a elas:\n  168  \n  169: ``Olhem! Olhem! O Gigante, o Gigante!'', e apontou em direção à Forma\n  170  que ela ainda via se movendo lentamente na direção da cidade.\n  171  \n  ...\n  178  rua ainda gritando:\n  179  \n  180: ``Olhem! Olhem! O Gigante, o Gigante!'' Mas ninguém lhe prestou atenção\n  181  e todos disseram: ``Essa criança está louca'', e continuavam em seus\n  182  caminhos.\n  ...\n  398  retorcendo\"-se um pouco em terror, e correu, gritando:\n  399  \n  400: ``O Gigante! O Gigante! Ele está mesmo entre nós!''\n  401  \n  402  Eles temeram ainda mais por não poderem vê\"-lo.\n  ...\n  543  Zaya gritou ao Gigante, ainda segurando Knoal pelas mãos bem forte:\n  544  \n  545: ``Ele não, ele não! Ó, poderoso Gigante! Ele não! Ele não!'', e arqueou\n  546  a cabeça para baixo e chorou.\n  547  \n\n5 matches in 1 file\n\n\nSearching 36 files for \"Cada passarinho\"\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OGIGANTEINVISIVEL3435.tex:\n  494  dela.\n  495  \n  496: Cada passarinho que bebia da xícara de Zaya e gostava levantava sua\n  497  cabeça para fazer as graças; e desde então os passarinhos fazem a mesma\n  498  coisa, e nunca se esquecem de fazer as graças -- como algumas crianças\n\n1 match in 1 file\n\n\nSearching 36 files for \"imediatamente ela viu\"\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OGIGANTEINVISIVEL3435.tex:\n  583  ``Inocência e devoção salvam o reino''.\n  584  \n  585: Imediatamente ela viu ao longe o grande Gigante Praga se afastando para\n  586  as fronteiras do Reino, passando entre os Espíritos Guardiães e pelo\n  587  Portal em direção aos desertos para o além… para sempre.\n\n1 match in 1 file\n\n\nSearching 36 files for \"assim o tempo\"\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OCASTELODOREI3439.tex:\n  571  poucos, e, novamente, o silêncio de desolação reinou sozinho.\n  572  \n  573: Assim o tempo passou aos poucos; mas nunca chegava descanso para os pés\n  574  fatigados. Adiante, ainda adiante ele seguia, com uma única memória a\n  575  animá-lo -- o eco em seus ouvidos do trovão cujo estrondo havia\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OCONSTRUTORDESOMBRAS3436.tex:\n  324  \n  325  \\smallskip\n  326: Assim o tempo segue adiante, e muitos, muitos dias tediosos vão\n  327  passando. O Garoto se torna um jovem Homem, vivendo na ilha solitária.\n  328  Sua barba cresceu, e ele está vestido numa roupa de folhas. Por todo o\n\n2 matches across 2 files\n\n\nSearching 36 files for \"assim o tempo\"\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OCASTELODOREI3439.tex:\n  571  poucos, e, novamente, o silêncio de desolação reinou sozinho.\n  572  \n  573: Assim o tempo passou aos poucos; mas nunca chegava descanso para os pés\n  574  fatigados. Adiante, ainda adiante ele seguia, com uma única memória a\n  575  animá-lo -- o eco em seus ouvidos do trovão cujo estrondo havia\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OCONSTRUTORDESOMBRAS3436.tex:\n  324  \n  325  \\smallskip\n  326: Assim o tempo segue adiante, e muitos, muitos dias tediosos vão\n  327  passando. O Garoto se torna um jovem Homem, vivendo na ilha solitária.\n  328  Sua barba cresceu, e ele está vestido numa roupa de folhas. Por todo o\n\n2 matches across 2 files\n\n\nSearching 36 files for \"24.png\"\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OCONSTRUTORDESOMBRAS3436.tex:\n  334  linha escura por toda a encosta até a beirinha da água.\n  335  \n  336: \\imagemmedia{}{./img/24.png}\n  337  \n  338  O coração do Homem solitário fica mais e mais melancólico à medida que\n\n1 match in 1 file\n\n\nSearching 36 files for \"todos os alunos\"\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/COMOO7FICOULOUCO3437.tex:\n   81  O Professor estava prestes a contá\"-los uma história.\n   82  \n   83: Todos os alunos haviam se acomodado para escutar; o Corvo se sentou no\n   84  peitoril da janela aberta, pendeu sua cabeça para um lado, fechou um\n   85  olho -- o olho mais perto da sala de aula -- para que pensassem que\n   ..\n  631  --0\n  632  \n  633: Todos os Alunos rodearam Tineboy para olhar o livro. Ruffin não foi,\n  634  pois ele estava olhando o relógio da escola.\n  635  \n  ...\n  737  as telhas do telhado.\n  738  \n  739: Todos os Alunos olharam para cima; Ruffin tinha sua boca aberta, e o Sr.~Gralha, ansioso por se livrar dos Setes, soltou um dentro dela.\n  740  \n  741  ``Dois mil, quatrocentos e um'', Ruffin balbuciou.\n\n3 matches in 1 file\n\n\nSearching 13 files for \"Olhe, e você verá\" (regex)\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/ACRIANCAMARAVILHOSA3440.tex:\n  440  trata tudo isso''.\n  441  \n  442: ``Olhe, e você verá'', disse a Criança, e tomou um pedaço de graveto e\n  443  escreveu uma música na areia.\n  444  \n\n1 match in 1 file\n\n\nSearching 13 files for \"musica}\" (regex)\n\n0 matches\n\nSearching 13 files for \"musica\" (regex)\n\n/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/ACRIANCAMARAVILHOSA3440.tex:\n  443  escreveu uma música na areia.\n  444  \n  445: \\imagemgrande{}{musica.pdf}\n  446  \n  447  ``Ainda não sei'', disse May.\n\n1 match in 1 file\n",
+			"settings":
+			{
+				"buffer_size": 69921,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		}
 	],
-	"build_system": "Packages/Makefile/Make.sublime-build",
+	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
 	"build_system_choices":
 	[
 		[
@@ -89,6 +224,62 @@
 			[
 				"Packages/LaTeXing/LaTeX.sublime-build",
 				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"PdfLaTeX"
 			]
 		],
 		[
@@ -160,9 +351,49 @@
 	"command_palette":
 	{
 		"height": 392.0,
-		"last_filter": "ins",
+		"last_filter": "rev",
 		"selected_items":
 		[
+			[
+				"rev",
+				"Sublimerge: Compare Revision to Revision..."
+			],
+			[
+				"pan",
+				"Pandoc"
+			],
+			[
+				"doc",
+				"LaTeXTools: View TeX package documentation"
+			],
+			[
+				"ctable",
+				"Package Control: Enable Package"
+			],
+			[
+				"qi",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"qui",
+				"Build: Custom Quick Build"
+			],
+			[
+				"qu",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"gitk",
+				"Git: Gitk"
+			],
+			[
+				"do",
+				"LaTeXTools: View TeX package documentation"
+			],
+			[
+				"sor",
+				"Sort Lines"
+			],
 			[
 				"ins",
 				"Package Control: Install Package"
@@ -174,10 +405,6 @@
 			[
 				"git: sta",
 				"Git: Status"
-			],
-			[
-				"qui",
-				"Git: Quick Commit (repo)"
 			],
 			[
 				"git: add",
@@ -216,20 +443,12 @@
 				"Build With: LaTeX - XeLaTeX"
 			],
 			[
-				"sor",
-				"Sort Lines"
-			],
-			[
 				"git co",
 				"Git: Commit"
 			],
 			[
 				"git add",
 				"Git: Add All"
-			],
-			[
-				"doc",
-				"LaTeXTools: View TeX package documentation"
 			],
 			[
 				"pand",
@@ -307,29 +526,66 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef",
-		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/artigo1",
-		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/artigos",
-		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/artigos/RBEF-2016-0149",
-		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/artigos/RBEF-2016-0149/rbef-2016-0149_arquivo-digital"
-	],
 	"file_history":
 	[
+		"/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/INTRODUCAO3935.tex",
+		"/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/LIVRO.tex",
+		"/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/INPUTS.tex",
+		"/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/TESTE.tex",
+		"/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/INTRODUCAO.tex",
+		"/home/hipatia/Dropbox/LATEX/git/NOVOS/bonis_refugiados/original/INTRODUCAO.tex",
+		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/template_2.0/ARTIGO.tex",
+		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/template_2.0/rbef.sty",
+		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/template_2.0/penalidades.sty",
+		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/template_2.0/METADADOS.tex",
+		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/template/rbef.tex",
+		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/template/ARTIGO.tex",
+		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/template/rbef.cls",
+		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/template_2.0/TODO.md",
+		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/template_2.0/rbef.tex",
+		"/home/hipatia/Dropbox/SCIELO/XML/xmls/Hedra/1677-5449-jvb-nahead0117/1677-5449-jvb-1677-5449002116-gf01.jpg",
+		"/home/hipatia/Dropbox/SCIELO/XML/xmls/Hedra/1677-5449-jvb-nahead0117/1677-5449-jvb-1677-5449002116.pdf",
+		"/home/hipatia/Dropbox/SCIELO/XML/xmls/Hedra/1677-5449-jvb-nahead0117/1677-5449-jvb-1677-5449002116.xml",
+		"/home/hipatia/Dropbox/SCIELO/XML/xmls/Hedra/1677-5449-jvb-nahead0117/1677-5449-jvb-1677-5449002816-en.pdf",
+		"/home/hipatia/Dropbox/SCIELO/XML/xmls/Hedra/1677-5449-jvb-nahead0117/1677-5449-jvb-1677-5449002816-gf01-en.jpg",
+		"/home/hipatia/Dropbox/SCIELO/XML/xmls/Hedra/1677-5449-jvb-nahead0117/1677-5449-jvb-1677-5449002816-gf01.jpg",
+		"/home/hipatia/Dropbox/SCIELO/XML/xmls/Hedra/1677-5449-jvb-nahead0117/1677-5449-jvb-1677-5449002816-gf02-en.jpg",
+		"/home/hipatia/Dropbox/SCIELO/XML/xmls/Hedra/1677-5449-jvb-nahead0117/1677-5449-jvb-1677-5449002816-gf02.jpg",
+		"/home/hipatia/Dropbox/SCIELO/XML/xmls/Hedra/1677-5449-jvb-nahead0117/1677-5449-jvb-1677-5449002816.pdf",
+		"/home/hipatia/Dropbox/SCIELO/XML/xmls/Hedra/1677-5449-jvb-nahead0117/1677-5449-jvb-1677-5449002816.xml",
+		"/home/hipatia/Dropbox/SCIELO/XML/xmls/Hedra/1677-5449-jvb-nahead0117/1677-5449-jvb-1677-5449005316-en.pdf",
+		"/home/hipatia/Dropbox/SCIELO/XML/xmls/Hedra/1677-5449-jvb-nahead0117/1677-5449-jvb-1677-5449005316-gf01-en.jpg",
+		"/home/hipatia/Dropbox/SCIELO/XML/xmls/Hedra/1677-5449-jvb-nahead0117/1677-5449-jvb-1677-5449005316-gf01.jpg",
+		"/home/hipatia/Dropbox/SCIELO/XML/xmls/Hedra/1677-5449-jvb-nahead0117/1677-5449-jvb-1677-5449005316-gf02-en.jpg",
+		"/home/hipatia/Dropbox/SCIELO/XML/xmls/Hedra/1677-5449-jvb-nahead0117/1677-5449-jvb-1677-5449005316-gf02.jpg",
+		"/home/hipatia/Dropbox/SCIELO/XML/xmls/Hedra/1677-5449-jvb-nahead0117/1677-5449-jvb-1677-5449005316-gf03-en.jpg",
+		"/home/hipatia/Dropbox/SCIELO/XML/xmls/Hedra/1677-5449-jvb-nahead0117/1677-5449-jvb-1677-5449005316-gf03.jpg",
+		"/home/hipatia/Dropbox/SCIELO/XML/xmls/Hedra/1677-5449-jvb-nahead0117/1677-5449-jvb-1677-5449005316-gf04-en.jpg",
+		"/home/hipatia/Dropbox/SCIELO/XML/xmls/Hedra/1677-5449-jvb-nahead0117/1677-5449-jvb-1677-5449005316-gf04.jpg",
+		"/home/hipatia/Dropbox/SCIELO/XML/xmls/Hedra/1677-5449-jvb-nahead0117/1677-5449-jvb-1677-5449005316.pdf",
+		"/home/hipatia/Dropbox/SCIELO/XML/xmls/Hedra/1677-5449-jvb-nahead0117/1677-5449-jvb-1677-5449005316.xml",
+		"/home/hipatia/Dropbox/SCIELO/XML/xmls/Hedra/1677-5449-jvb-nahead0117/1677-5449-jvb-nahead0117.zip",
+		"/usr/share/texlive/texmf-dist/tex/generic/babel-french/frenchb.ldf",
+		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/artigo1/METADADOS.tex",
+		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/template_2.0/scielostyle.sty",
+		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/template_2.0/rbef.cls",
 		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/artigo1/rbef.tex",
+		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/artigo1/rbef.cls",
+		"/home/hipatia/Dropbox/SCIELO/SciELOtex/scielo/docs/source/tagset/latex-examples/latex-basic.sty",
+		"/home/hipatia/Dropbox/SCIELO/SciELOtex/scielo/docs/source/tagset/latex-examples/elemento-kwd-group.tex",
+		"/usr/share/texlive/texmf-dist/tex/latex/footmisc/footmisc.sty",
+		"/home/hipatia/texmf/tex/hedrastyles.sty",
+		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/template_2.0/0_rbef.tex",
+		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/template_2.0/rbef.fls",
 		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/artigos/RBEF-2016-0149/rbef-2016-0149_arquivo-digital/rbef-2016-0149.tex",
 		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/artigo1/fig3.jpg",
 		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/artigo1/ARTIGO.tex",
-		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/artigo1/METADADOS.tex",
 		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/artigo1/rbef-2016-0149_info.txt",
 		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/artigo1/rbef-2016-0149.tex",
 		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/testes/Makefile",
 		"/home/hipatia/Dropbox/SCIELO/cursolatex/rbef-raw/to-hedra_arquivos-rbef_20170131/RBEF-2016-0149/rbef-2016-0149_arquivo-digital/METADADOS.tex",
 		"/home/hipatia/Dropbox/SCIELO/cursolatex/rbef-raw/to-hedra_arquivos-rbef_20170131/RBEF-2016-0149/rbef-2016-0149_arquivo-digital/rbef-2016-0149.tex",
-		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/template/rbef.cls",
 		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/template/METADADOS.tex",
-		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/template/rbef.tex",
 		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/testes/rbef-metadados.sty",
 		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/testes/rbef.tex",
 		"/home/hipatia/Dropbox/SCIELO/cursolatex/github/rbef/testes/rbef-twocols.sty",
@@ -348,7 +604,6 @@
 		"/home/hipatia/.config/sublime-text-3/Packages/LaTeXing/LaTeXing.sublime-settings",
 		"/home/hipatia/Dropbox/SCIELO/SciELOtex/scielo/docs/source/tagset/latex-examples/lipsum.sty",
 		"/home/hipatia/Desktop/teste.tex",
-		"/home/hipatia/Dropbox/SCIELO/SciELOtex/scielo/docs/source/tagset/latex-examples/elemento-kwd-group.tex",
 		"/usr/share/writer2latex/ultraclean.xml",
 		"/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty",
 		"/home/hipatia/.config/sublime-text-3/Packages/LaTeXTools/LaTeXTools.sublime-settings",
@@ -400,55 +655,11 @@
 		"/home/hipatia/Desktop/platao_fedro/TESTE.tex",
 		"/home/hipatia/Desktop/platao_fedro/SIGLAS.tex",
 		"/home/hipatia/Desktop/platao_fedro/RESUMO.tex",
-		"/home/hipatia/Desktop/platao_fedro/QUARTA.tex",
-		"/home/hipatia/Desktop/platao_fedro/ORELHA.tex",
-		"/home/hipatia/Desktop/platao_fedro/MEIO909.tex",
-		"/home/hipatia/Dropbox/SCIELO/SciELOtex/scielo/docs/source/tagset/latex-examples/elemento-date-in-citation.tex",
-		"/home/hipatia/Dropbox/SCIELO/SciELOtex/scielo/docs/source/tagset/latex-examples/article-meta.tex",
-		"/home/hipatia/Dropbox/SCIELO/XML/codigo/sciELO/favicon.ico",
-		"/home/hipatia/Dropbox/SCIELO/XML/codigo/sciELO/Global.asax",
-		"/home/hipatia/Dropbox/SCIELO/XML/codigo/sciELO/Global.asax.cs",
-		"/home/hipatia/Dropbox/SCIELO/XML/codigo/sciELO/packages.config",
-		"/home/hipatia/Dropbox/SCIELO/XML/codigo/sciELO/Project_Readme.html",
-		"/home/hipatia/Dropbox/SCIELO/XML/codigo/sciELO/sciELO.MVC.csproj",
-		"/home/hipatia/Dropbox/SCIELO/XML/codigo/sciELO/sciELO.MVC.csproj.user",
-		"/home/hipatia/Dropbox/SCIELO/XML/codigo/sciELO/Startup.cs",
-		"/home/hipatia/Dropbox/SCIELO/XML/codigo/sciELO/Web.config",
-		"/home/hipatia/Dropbox/SCIELO/XML/codigo/sciELO/Web.Debug.config",
-		"/home/hipatia/Dropbox/SCIELO/XML/codigo/sciELO/Web.Release.config",
-		"/home/hipatia/Dropbox/SCIELO/pesquisa/xmltex/teste.xml",
-		"/home/hipatia/Dropbox/SCIELO/pesquisa/pandoc/capsula.tex",
-		"/home/hipatia/Dropbox/SCIELO/pesquisa/pandoc/capsula.native",
-		"/home/hipatia/Dropbox/SCIELO/Diario.md",
-		"/home/hipatia/Dropbox/SCIELO/SciELOtex/scielo/docs/source/tagset/elemento-article.rst",
-		"/home/hipatia/Dropbox/SCIELO/SciELOtex/scielo/docs/source/tagset/latex-examples/scielostyle.sty",
-		"/home/hipatia/Dropbox/SCIELO/SciELOtex/scielo/README.md",
-		"/home/hipatia/Dropbox/ECOMMERCE/ANOTACOES.md",
-		"/home/hipatia/Dropbox/SCIELO/SciELOtex/teste.json",
-		"/home/hipatia/Dropbox/PRIORIDADES.md",
-		"/home/hipatia/Dropbox/ODOO/FINANCEIRO/PLANILHAS/RECEBER_JAN.csv",
-		"/home/hipatia/Dropbox/SCIELO/pesquisa/scielo_publishing_schema/atributos-jats.xml",
-		"/home/hipatia/Dropbox/SCIELO/pesquisa/scielo_publishing_schema/variaveis-jats.xml",
-		"/home/hipatia/Dropbox/SCIELO/pesquisa/scielo_publishing_schema/elementos-jats.xml",
-		"/home/hipatia/Dropbox/EdLAB/DANCADRAMA/VILADASARTES5128.tex",
-		"/home/hipatia/Dropbox/EdLAB/DANCADRAMA/TRECHO5141.tex",
-		"/home/hipatia/Dropbox/EdLAB/DANCADRAMA/TRECHO5140.tex",
-		"/home/hipatia/Dropbox/EdLAB/DANCADRAMA/TRECHO5139.tex",
-		"/home/hipatia/Dropbox/EdLAB/DANCADRAMA/TRECHO5138.tex",
-		"/home/hipatia/Dropbox/EdLAB/DANCADRAMA/TRECHO5137.tex",
-		"/home/hipatia/Dropbox/EdLAB/DANCADRAMA/TRECHO5136.tex",
-		"/home/hipatia/Dropbox/EdLAB/DANCADRAMA/TRECHO5135.tex",
-		"/home/hipatia/Dropbox/EdLAB/DANCADRAMA/TRECHO5134.tex",
-		"/home/hipatia/Dropbox/EdLAB/DANCADRAMA/TRECHO5133.tex",
-		"/home/hipatia/Dropbox/EdLAB/DANCADRAMA/TRECHO5132.tex",
-		"/home/hipatia/Dropbox/EdLAB/DANCADRAMA/TRECHO5131.tex",
-		"/home/hipatia/Dropbox/EdLAB/DANCADRAMA/TRECHO5130.tex",
-		"/home/hipatia/Dropbox/EdLAB/DANCADRAMA/TITULODOCAPITULO5141.tex",
-		"/home/hipatia/Dropbox/EdLAB/DANCADRAMA/TESTE.tex"
+		"/home/hipatia/Desktop/platao_fedro/QUARTA.tex"
 	],
 	"find":
 	{
-		"height": 45.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -467,6 +678,87 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"musica",
+			"musica}",
+			"Olhe, e você verá",
+			"^-\\n",
+			"todos os alunos",
+			"24.png",
+			"assim o tempo",
+			"imediatamente ela viu",
+			"Cada passarinho",
+			"O gigante!",
+			"O gigante",
+			"O bebê falou",
+			"20.png",
+			"May viu que o ",
+			"May",
+			"Havia também grandes",
+			"Reino dentro do ",
+			"Enquanto falavam, ",
+			"16.png",
+			"enquanto falavam",
+			"enquanto falavam, ele",
+			"Oh, não",
+			"as crianças estavam",
+			"as crianças",
+			"\\ \\\n",
+			"de repente, tineboy",
+			"quando o sr.",
+			"quando o s",
+			"quando o sr.",
+			"quando o senhor",
+			"o solitário con",
+			"no silêncio frio",
+			"ALgumas vezes",
+			"seu único pov",
+			"seu único povo",
+			"Esse círculo inf",
+			"^-\\n",
+			"\\asterisc{}",
+			"^-\\n",
+			"textsc",
+			"O tempo segue em frente",
+			"Enquanto andavam",
+			"O Príncipe Za",
+			"Então, à medida que",
+			"Ela encontrou\"-o",
+			"Oh, Rei, Pai",
+			"Ele ainda era",
+			"13",
+			"{{[}10{]}}",
+			"{{[}9{]}}",
+			"{{[}8{]}}",
+			"{{[}7{]}}",
+			"\\smallskip{}",
+			"\\begin{center}\\asterisc{}\\end{center}",
+			"{{[}6{]}}",
+			"[A-Z]\\+[A-Z]",
+			"[A-Z][A-Z]\\+",
+			"[A-Z]\\+",
+			"[A-Z]\\.+",
+			"[A-Z]",
+			"[A-Z]+",
+			"[A-Z]\\*",
+			"[A-Z]\\+",
+			"volumerevista",
+			"title",
+			"abre",
+			"font",
+			"usepackage",
+			"micro",
+			"\\bl",
+			"publisher",
+			"bl",
+			"color",
+			"comm",
+			"Creat",
+			"primeir",
+			"cci",
+			"abst",
+			"mdfra",
+			"md",
+			"mdfra",
 			"RequirePackage",
 			"twocolumn",
 			"col",
@@ -513,95 +805,27 @@
 			"Arimo",
 			"engli",
 			"babel",
-			"[1EBD?][316?]",
-			"ä[317?]",
-			"u[316?]",
-			"[268?]",
-			"a[317?]",
-			"href",
-			"\\textrm",
-			"\\textstyletxtarialviiiptgrayi",
-			"\\textstyleEmphasis",
-			"\\textstyleEmphasis{\\textup",
-			"textup",
-			"\\textstyleEmphasis",
-			"supertabular",
-			"arrayrulewidth",
-			"\\arraybslash",
-			"\\textstylenfaseSutil",
-			"\\~\\i",
-			"\\~\\",
-			"\\textsf",
-			"textsf",
-			"\\textstyleCitaoChar",
-			"\\ ",
-			"{\\sffamily\\bfseries\\color[rgb]{0.30980393,0.5058824,0.7411765}",
-			"\\\\hypertarget{.*}{}",
-			"\\\\\\ \\\\\\ ",
-			"\\hypertarget{.*}{}",
-			"\\hypertarget{RefHeadingToc466556353}{}",
-			"\\\\hypertarget{.*}",
-			"^...$\\n",
-			"/.*",
-			"\\\\.*",
-			"\"",
-			"Docto\\n",
-			"/02",
-			"/.*",
-			"^0",
-			"^0$\\n",
-			"Recompra\\n",
-			"/01",
-			"/.*",
-			"\\\\.*",
-			"\\.*",
-			"\"0",
-			"^$\\n",
-			"\\n\\n",
-			"^$",
-			"^0\"",
-			"/.*",
-			"msf",
-			"bbc",
-			"Deutsche",
-			"Republ",
-			"{\\ ",
-			"{\\",
-			"Republ",
-			"britann",
-			"War",
-			"Greek\"-T",
-			"rapid",
-			"theguar",
-			"data.",
-			"msf.",
-			"bbc",
-			"consili",
-			"ec.eu",
-			"missing",
-			"data\\.",
-			"http",
-			"Anistia IN",
-			"http",
-			"footnote",
-			"\\\\",
-			"Do lado de",
-			"\\}",
-			"}",
-			"\\\\}",
-			"\\}",
-			"\\\\\\}",
-			"\\\\}",
-			"textbf",
-			"\\\\versal{.*}",
-			"\\versal\\{.*\\}"
+			"[1EBD?][316?]"
 		],
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": false,
+		"regex": true,
 		"replace_history":
 		[
+			"\\\\smallskip",
+			"",
+			"\\\\smallskip",
+			"\\smallskip",
+			"-",
+			"",
+			"\\n\\\\asterisc{}\\n",
+			"\\r\\\\asterisc{}\\r",
+			"\\n\\\\asterisc{}",
+			"\\\\asterisc{}",
+			"emph",
+			"",
+			"\\asterisc{}",
 			"usepackage",
 			"\\\\includegraphics[width=\\\\textwidth]",
 			"\\\\includegraphics[\\\\width=\\\\textwidth]",
@@ -686,14 +910,1465 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/ACRIANCAMARAVILHOSA3440.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 37757,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20476,
+								20476
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 8126.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/COMOO7FICOULOUCO3437.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25498,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4310,
+								4310
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 553.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/DEDICATORIA3948.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 278,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/INPUTS.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/INTRODUCAO3935.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23474,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/LIVRO.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/MENTIRASELIRIOS3438.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9076,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7918,
+								7918
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 406.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OCASTELODOREI3439.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 32055,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9040,
+								9040
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OCONSTRUTORDESOMBRAS3436.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26237,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23829,
+								23831
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OGIGANTEINVISIVEL3435.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 28480,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28279,
+								28279
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 990.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/OPRINCIPEDAROSA3434.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 37674,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36231,
+								36231
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/SOBOPORDOSOL3433.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15553,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								196,
+								196
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 627.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/TESTE.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeXing/support/LaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 69921,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										148,
+										161
+									],
+									[
+										585,
+										597
+									],
+									[
+										1004,
+										1020
+									],
+									[
+										1422,
+										1441
+									],
+									[
+										1774,
+										1787
+									],
+									[
+										2087,
+										2100
+									],
+									[
+										2244,
+										2257
+									],
+									[
+										2666,
+										2682
+									],
+									[
+										2907,
+										2923
+									],
+									[
+										3237,
+										3260
+									],
+									[
+										3492,
+										3515
+									],
+									[
+										3915,
+										3931
+									],
+									[
+										4412,
+										4425
+									],
+									[
+										4909,
+										4922
+									],
+									[
+										5186,
+										5199
+									],
+									[
+										5319,
+										5332
+									],
+									[
+										5493,
+										5506
+									],
+									[
+										5728,
+										5741
+									],
+									[
+										6017,
+										6030
+									],
+									[
+										6346,
+										6359
+									],
+									[
+										6681,
+										6694
+									],
+									[
+										7021,
+										7034
+									],
+									[
+										7315,
+										7328
+									],
+									[
+										7642,
+										7655
+									],
+									[
+										8018,
+										8031
+									],
+									[
+										8384,
+										8397
+									],
+									[
+										8580,
+										8593
+									],
+									[
+										8839,
+										8852
+									],
+									[
+										9320,
+										9333
+									],
+									[
+										9597,
+										9610
+									],
+									[
+										9730,
+										9743
+									],
+									[
+										9904,
+										9917
+									],
+									[
+										10139,
+										10152
+									],
+									[
+										10423,
+										10436
+									],
+									[
+										10752,
+										10765
+									],
+									[
+										11087,
+										11100
+									],
+									[
+										11427,
+										11440
+									],
+									[
+										11721,
+										11734
+									],
+									[
+										12048,
+										12061
+									],
+									[
+										12424,
+										12437
+									],
+									[
+										12790,
+										12803
+									],
+									[
+										12986,
+										12999
+									],
+									[
+										13245,
+										13258
+									],
+									[
+										13657,
+										13673
+									],
+									[
+										14090,
+										14105
+									],
+									[
+										14286,
+										14301
+									],
+									[
+										14445,
+										14460
+									],
+									[
+										14742,
+										14757
+									],
+									[
+										15040,
+										15052
+									],
+									[
+										15468,
+										15487
+									],
+									[
+										15804,
+										15815
+									],
+									[
+										16168,
+										16179
+									],
+									[
+										16366,
+										16377
+									],
+									[
+										16735,
+										16746
+									],
+									[
+										16845,
+										16856
+									],
+									[
+										17178,
+										17189
+									],
+									[
+										17554,
+										17565
+									],
+									[
+										17742,
+										17753
+									],
+									[
+										18063,
+										18074
+									],
+									[
+										18238,
+										18249
+									],
+									[
+										18584,
+										18595
+									],
+									[
+										18797,
+										18808
+									],
+									[
+										19122,
+										19133
+									],
+									[
+										19499,
+										19510
+									],
+									[
+										19763,
+										19774
+									],
+									[
+										20068,
+										20079
+									],
+									[
+										20457,
+										20468
+									],
+									[
+										20862,
+										20873
+									],
+									[
+										21094,
+										21105
+									],
+									[
+										21453,
+										21464
+									],
+									[
+										21724,
+										21735
+									],
+									[
+										21986,
+										21997
+									],
+									[
+										22397,
+										22408
+									],
+									[
+										22729,
+										22740
+									],
+									[
+										23092,
+										23103
+									],
+									[
+										23289,
+										23300
+									],
+									[
+										23676,
+										23687
+									],
+									[
+										23791,
+										23802
+									],
+									[
+										24120,
+										24131
+									],
+									[
+										24501,
+										24512
+									],
+									[
+										24690,
+										24701
+									],
+									[
+										25015,
+										25026
+									],
+									[
+										25195,
+										25206
+									],
+									[
+										25546,
+										25557
+									],
+									[
+										25708,
+										25719
+									],
+									[
+										26033,
+										26044
+									],
+									[
+										26540,
+										26551
+									],
+									[
+										26803,
+										26814
+									],
+									[
+										27072,
+										27083
+									],
+									[
+										27399,
+										27418
+									],
+									[
+										27845,
+										27852
+									],
+									[
+										28196,
+										28212
+									],
+									[
+										28540,
+										28556
+									],
+									[
+										28876,
+										28892
+									],
+									[
+										29230,
+										29248
+									],
+									[
+										29565,
+										29583
+									],
+									[
+										29900,
+										29918
+									],
+									[
+										30189,
+										30205
+									],
+									[
+										30589,
+										30609
+									],
+									[
+										30886,
+										30906
+									],
+									[
+										31386,
+										31389
+									],
+									[
+										31549,
+										31552
+									],
+									[
+										31718,
+										31721
+									],
+									[
+										31929,
+										31932
+									],
+									[
+										32142,
+										32145
+									],
+									[
+										32356,
+										32359
+									],
+									[
+										32602,
+										32605
+									],
+									[
+										32880,
+										32883
+									],
+									[
+										33199,
+										33202
+									],
+									[
+										33561,
+										33564
+									],
+									[
+										33796,
+										33799
+									],
+									[
+										34124,
+										34127
+									],
+									[
+										34409,
+										34412
+									],
+									[
+										34566,
+										34569
+									],
+									[
+										34892,
+										34895
+									],
+									[
+										35245,
+										35248
+									],
+									[
+										35473,
+										35476
+									],
+									[
+										35719,
+										35722
+									],
+									[
+										35861,
+										35864
+									],
+									[
+										36033,
+										36036
+									],
+									[
+										36295,
+										36298
+									],
+									[
+										36547,
+										36550
+									],
+									[
+										36732,
+										36735
+									],
+									[
+										36809,
+										36812
+									],
+									[
+										37024,
+										37027
+									],
+									[
+										37127,
+										37130
+									],
+									[
+										37340,
+										37343
+									],
+									[
+										37650,
+										37653
+									],
+									[
+										37830,
+										37833
+									],
+									[
+										37989,
+										37992
+									],
+									[
+										38316,
+										38319
+									],
+									[
+										38421,
+										38424
+									],
+									[
+										38576,
+										38579
+									],
+									[
+										38760,
+										38763
+									],
+									[
+										38984,
+										38987
+									],
+									[
+										39109,
+										39112
+									],
+									[
+										39244,
+										39247
+									],
+									[
+										39406,
+										39409
+									],
+									[
+										39642,
+										39645
+									],
+									[
+										39801,
+										39804
+									],
+									[
+										40186,
+										40189
+									],
+									[
+										40361,
+										40364
+									],
+									[
+										40446,
+										40449
+									],
+									[
+										40812,
+										40815
+									],
+									[
+										41008,
+										41011
+									],
+									[
+										41313,
+										41316
+									],
+									[
+										41457,
+										41460
+									],
+									[
+										41739,
+										41742
+									],
+									[
+										41876,
+										41879
+									],
+									[
+										42089,
+										42092
+									],
+									[
+										42315,
+										42318
+									],
+									[
+										42664,
+										42667
+									],
+									[
+										42977,
+										42980
+									],
+									[
+										43195,
+										43198
+									],
+									[
+										43442,
+										43445
+									],
+									[
+										43684,
+										43687
+									],
+									[
+										43726,
+										43729
+									],
+									[
+										43855,
+										43858
+									],
+									[
+										43971,
+										43974
+									],
+									[
+										44145,
+										44148
+									],
+									[
+										44299,
+										44302
+									],
+									[
+										44477,
+										44480
+									],
+									[
+										44662,
+										44665
+									],
+									[
+										44837,
+										44840
+									],
+									[
+										45106,
+										45109
+									],
+									[
+										45434,
+										45437
+									],
+									[
+										45679,
+										45682
+									],
+									[
+										45936,
+										45939
+									],
+									[
+										46105,
+										46108
+									],
+									[
+										46365,
+										46368
+									],
+									[
+										46591,
+										46594
+									],
+									[
+										46711,
+										46714
+									],
+									[
+										47172,
+										47175
+									],
+									[
+										47597,
+										47611
+									],
+									[
+										47924,
+										47936
+									],
+									[
+										48234,
+										48243
+									],
+									[
+										48632,
+										48641
+									],
+									[
+										48927,
+										48936
+									],
+									[
+										49078,
+										49087
+									],
+									[
+										49333,
+										49342
+									],
+									[
+										49608,
+										49617
+									],
+									[
+										49619,
+										49628
+									],
+									[
+										49803,
+										49812
+									],
+									[
+										49814,
+										49823
+									],
+									[
+										50100,
+										50109
+									],
+									[
+										50316,
+										50325
+									],
+									[
+										50444,
+										50453
+									],
+									[
+										50618,
+										50627
+									],
+									[
+										50810,
+										50819
+									],
+									[
+										51074,
+										51083
+									],
+									[
+										51311,
+										51320
+									],
+									[
+										51521,
+										51530
+									],
+									[
+										51732,
+										51741
+									],
+									[
+										51983,
+										51992
+									],
+									[
+										52147,
+										52156
+									],
+									[
+										52345,
+										52354
+									],
+									[
+										52693,
+										52702
+									],
+									[
+										53110,
+										53119
+									],
+									[
+										53509,
+										53518
+									],
+									[
+										53756,
+										53765
+									],
+									[
+										54059,
+										54068
+									],
+									[
+										54070,
+										54079
+									],
+									[
+										54366,
+										54375
+									],
+									[
+										54632,
+										54641
+									],
+									[
+										54987,
+										54996
+									],
+									[
+										55203,
+										55212
+									],
+									[
+										55516,
+										55525
+									],
+									[
+										55686,
+										55695
+									],
+									[
+										56099,
+										56108
+									],
+									[
+										56237,
+										56246
+									],
+									[
+										56572,
+										56581
+									],
+									[
+										56672,
+										56681
+									],
+									[
+										56825,
+										56834
+									],
+									[
+										57046,
+										57055
+									],
+									[
+										57248,
+										57257
+									],
+									[
+										57303,
+										57312
+									],
+									[
+										57806,
+										57815
+									],
+									[
+										57984,
+										57993
+									],
+									[
+										58220,
+										58229
+									],
+									[
+										58451,
+										58460
+									],
+									[
+										58616,
+										58625
+									],
+									[
+										58813,
+										58822
+									],
+									[
+										59157,
+										59166
+									],
+									[
+										59495,
+										59504
+									],
+									[
+										59697,
+										59706
+									],
+									[
+										59924,
+										59933
+									],
+									[
+										60358,
+										60367
+									],
+									[
+										60485,
+										60494
+									],
+									[
+										60713,
+										60722
+									],
+									[
+										61010,
+										61019
+									],
+									[
+										61392,
+										61401
+									],
+									[
+										61691,
+										61700
+									],
+									[
+										61891,
+										61900
+									],
+									[
+										62265,
+										62274
+									],
+									[
+										62343,
+										62352
+									],
+									[
+										62621,
+										62630
+									],
+									[
+										62771,
+										62780
+									],
+									[
+										63128,
+										63137
+									],
+									[
+										63353,
+										63362
+									],
+									[
+										63670,
+										63679
+									],
+									[
+										63818,
+										63827
+									],
+									[
+										64082,
+										64091
+									],
+									[
+										64271,
+										64280
+									],
+									[
+										64649,
+										64658
+									],
+									[
+										64977,
+										64987
+									],
+									[
+										65172,
+										65182
+									],
+									[
+										65395,
+										65405
+									],
+									[
+										65406,
+										65416
+									],
+									[
+										65634,
+										65644
+									],
+									[
+										65891,
+										65906
+									],
+									[
+										66324,
+										66345
+									],
+									[
+										66754,
+										66767
+									],
+									[
+										67088,
+										67101
+									],
+									[
+										67533,
+										67546
+									],
+									[
+										67867,
+										67880
+									],
+									[
+										68327,
+										68333
+									],
+									[
+										68636,
+										68651
+									],
+									[
+										68890,
+										68905
+									],
+									[
+										69069,
+										69084
+									],
+									[
+										69469,
+										69486
+									],
+									[
+										69845,
+										69851
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								69835,
+								69835
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 40,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 31540.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 37.0
+		"height": 21.0
 	},
 	"input":
 	{
@@ -724,7 +2399,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 29.0
+		"height": 100.0
 	},
 	"output.find_results":
 	{
@@ -732,17 +2407,17 @@
 	},
 	"output.git":
 	{
-		"height": 151.0
+		"height": 69.0
 	},
 	"output.latextools":
 	{
-		"height": 118.0
+		"height": 175.0
 	},
 	"pinned_build_system": "",
 	"project": "rbef.sublime-project",
 	"replace":
 	{
-		"height": 84.0
+		"height": 64.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -752,20 +2427,48 @@
 		"selected_items":
 		[
 			[
+				"",
+				"~/Dropbox/LATEX/git/NOVOS/stocker_sol/OCONSTRUTORDESOMBRAS3436.tex"
+			],
+			[
+				"oca",
+				"~/Dropbox/LATEX/git/NOVOS/stocker_sol/OCASTELODOREI3439.tex"
+			],
+			[
+				"og",
+				"~/Dropbox/LATEX/git/NOVOS/stocker_sol/OGIGANTEINVISIVEL3435.tex"
+			],
+			[
+				"oco",
+				"~/Dropbox/LATEX/git/NOVOS/stocker_sol/OCONSTRUTORDESOMBRAS3436.tex"
+			],
+			[
+				"in",
+				"~/Dropbox/LATEX/git/NOVOS/stocker_sol/INPUTS.tex"
+			],
+			[
+				"me",
+				"template_2.0/METADADOS.tex"
+			],
+			[
+				"sci",
+				"template_2.0/scielostyle.sty"
+			],
+			[
+				"r",
+				"template_2.0/rbef.cls"
+			],
+			[
+				"scie",
+				"template_2.0/scielostyle.sty"
+			],
+			[
 				"make",
 				"Makefile"
 			],
 			[
-				"in",
-				"INPUTS.tex"
-			],
-			[
 				"re",
 				"REFERENCIAS5185.tex"
-			],
-			[
-				"",
-				"Find Results"
 			],
 			[
 				"ema",
@@ -1244,7 +2947,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 325.0,
+	"side_bar_width": 362.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
