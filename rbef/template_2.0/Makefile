@@ -8,5 +8,4 @@ clean:
 	-rm *.fls
 	-rm *.log
 	-rm *.out
-	-rm *.pdf
 	-rm *.synctex.gz
